@@ -1,7 +1,8 @@
 # Classification Grounding Acts German
 This is the repository for the paper "LLM-based Classification of Grounding Acts in German" (Accepted at KONVENS 2025)
 
-##  Repository Structure 
+<pre lang="markdown"> ## Repository Structure
+  ```
 
   ├── annotation/ # Annotation materials
 │ └── annotation_guidelines.pdf
