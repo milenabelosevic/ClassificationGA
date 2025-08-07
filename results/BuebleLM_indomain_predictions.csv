@@ -1,0 +1,150 @@
+input_text,label,predicted_label,score
+"Berater: Berater: wichtig hier auf dieser seite insbesondere, vOrstrafen, ermittlungsverfahren, auch im
+AUSland es darf kein verfahren gegen sie ANhängig sein, das heißt wegen fahren ohne fahrerlaubnis oder was auch Immer, sonst ginge das verfahren nicht weiter.",non_advance,LABEL_0,0.9902461767196655
+"Berater: Berater: Haben Sie irgendwie ein Druck, ein Problem oder so?",non_advance,LABEL_0,0.9999526739120483
+Berater:  mittwoch war der erste termin da waren glaub ich insgesamt drei oder vier person da,advance,LABEL_1,0.8402747511863708
+Berater: das heißt je nach der neunen prüfungslIordnung ich mein nach der alten  prüfungsordnung haben sie faktisch die  ausdehnungsmöglichkeit bis zum zehnten semester und sie hei- das heißt sie müssen sich im zehnten semester zum examen melden,non_advance,LABEL_0,0.8861371278762817
+"Berater: Berater: ich brauche zwei seiten für die verlängerung
+aber ich habe keine oder?",non_advance,LABEL_0,0.9999198913574219
+Berater: Berater: das wären dreihundertfünf  sekunde. das wären dreihundertfünfzigtausend gesamtkosten,non_advance,LABEL_0,0.9999823570251465
+Berater: fruchtwasserzellen die stammen vom kind also was im fruchtwasser an zellen schwimmt stammt vom kind,non_advance,LABEL_0,0.9676197171211243
+"Berater: Die Bewertungsstichtage – wir haben März und September –
+sollte man dann mit Sonderzahlungen ausnutzen,
+damit man das entsprechend leistet.
+Weil man dadurch die Laufzeiten schon sehr beeinflussen kann.",advance,LABEL_1,0.5752506256103516
+"Berater: Also, es ist ja eine Geschichte erzählt.
+Ja, so ist mir das gelungen.
+Und zwar: Mir ist dieses ganze Projekt hier – die Exkursion – gelungen.",non_advance,LABEL_0,0.9322401285171509
+Berater: Berater: und in der zwIschenzeit mach ich die tu ich den antrag von ihrer tochter fertig bearbeiten.,non_advance,LABEL_0,0.9991775155067444
+Berater: das ist völlig ausreichend für die EInbürgerung. und zwar bezüglich der sprAchkenntnisse. natürlich sprechen sie quasi mUttersprachlich deutsch.,advance,LABEL_1,0.9946742057800293
+"Berater: Berater: so, dann schau wir mal,  ein biometrisches foto haben wir glaub ich bei i, in der akte schon von ihnen, richtig?",non_advance,LABEL_0,0.9993626475334167
+Berater: ich sag jetzt mal also insgesamt waren das dann vielleicht fünfunzwanzig prozent die überhaupt gekommen sind,advance,LABEL_1,0.8881487846374512
+"Berater: Klient: und ich würde mich zum Ersten siebten in, auf diese nEue adrEsse anmelden.",non_advance,LABEL_0,0.9786511063575745
+"Berater: Ich darf das gar nicht, das darf nur ein standesbeamter das ist also wieder was anderes",advance,LABEL_0,0.9107614755630493
+"Berater: Berater: und dann wird ja die biometrie überprüft ja bei jedem fotograf, und ich brauch nur ein, Ein foto, ja?",non_advance,LABEL_0,0.9999194145202637
+Berater: und sie hat mir auch etwas geschickt aber das falsche; vom falschen konto,non_advance,LABEL_1,0.9753775596618652
+"Berater: Klient: aber diese foto haben wir denn beim, bei eine, bei einem deu wie man sagt fotografierer?",non_advance,LABEL_0,0.9999570846557617
+Berater: Sie hat keinen Anspruch laut Gesetz kann sie nur nach Hamburg kommen wenn hier ein Ehemann ist.,advance,LABEL_1,0.9137930870056152
+Berater: ich kann ihnen das vielleicht mal erläutern veranschaulichen  besser vorstellen wovon wir reden.,non_advance,LABEL_1,0.9679574966430664
+Berater: rechts daneben steht der kirschlorbeer besser gesacht die lorbeerkirsche.,non_advance,LABEL_0,0.9251411557197571
+Berater: das können sie also auch dort zu der x-straße vierunddreißig hier in x-stadt schicken und dann kann man gucken inwieweit man das auf schriftlichem wege machen kann.,advance,LABEL_0,0.7852857708930969
+"Berater: ihrn pAss haben Sie, herr abAje? wIr müssen jetzt wArten, bis die Akte da ist.",advance,LABEL_1,0.5222394466400146
+"Berater: Also, Sie können offensichtlich Ihr Anliegen sprachlich ausdrücken. Ich kann mich sprachlich ausdrücken.
+",non_advance,LABEL_0,0.9958600401878357
+Berater: ist das sind das zwei be separate grundstücke?,non_advance,LABEL_1,0.5822595953941345
+"Berater: Berater: brauchen sie jetzt keine bedEnken haben. das müssen wir prüfen, ne?
+das müssen wir prüfen, natürlich müssen sie ihr studium fertig machen",non_advance,LABEL_0,0.9987295269966125
+Berater: da haben sie sie dann folgende möglichkeiten für die finanzierung zum einen gibt es für die modernisierung die sogenannten ka ef wE fördermittel.,advance,LABEL_1,0.9947711825370789
+"Berater: ja, das geht, sie müssen ihn einfach unterschreiben das ist wichtig und dann können sie ihn einschicken.",advance,LABEL_1,0.9886445999145508
+Berater: romeo habt ihr irgendwo sur le nil habt ihr irgendwo sur le nil,non_advance,LABEL_0,0.9538654088973999
+Berater: sie haben jede menge ressourcen zur verfügung damit ihnen das gelingen kann.,advance,LABEL_1,0.8595675230026245
+Berater: ich bräuchte zusätzlich zu dem was  da sonst so aus der familie zur verfügung s t e ht wohl ungefähr hundert fünfzigtausend mark,advance,LABEL_1,0.6012787222862244
+"Berater: das] kann man jetzt so am telefon nicht sagen, ohne die einkommen zu  sehn",advance,LABEL_1,0.9089421629905701
+"Berater: Berater: alles klar, frau wolke?",non_advance,LABEL_0,0.9996294975280762
+Berater: nein sie machen das bis bis  bis august september etwa dreimal also alle drei bis vier wochen,non_advance,LABEL_0,0.9419809579849243
+"Berater: Berater: Sie ihr Problem ist, dass sie dass sie ein andere Religion hat und Christin ist hm?",non_advance,LABEL_0,0.9999948740005493
+"Berater: ist der typische chanelduft man riecht noch chanel
+aber in dem selben moment ist er  modern also jetzt nicht diese klassische chanelnote
+",non_advance,LABEL_0,0.9902216196060181
+Berater: dann sind sie haben sie chancen dass sie studienbeihilfe für mobilitätstipendium bekommen,advance,LABEL_1,0.9299955368041992
+"Berater: ja. das ist ja ganz günstig. ne, weil das können sie dann da weiterlaufen lassen,  und  von der finanzierungsfOrm würd ich für sie also empfehlen, sie könnten auch zu einer volksbank gehen, sag ich mal weil schwäbisch hall (ja) mit denen zu tun hat",advance,LABEL_1,0.8993777632713318
+Berater: was wäre eine situation die für sie eine gewisse herausforderung hatte und dass sie mir erzählen wie haben sie die gemeistert wie haben sie diese herausforderung bewältigt,non_advance,LABEL_0,0.9003753662109375
+"Berater: dennoch wird’s vom gesetzgeber verlangt, dass ma eine aussage zum gesundheitszustand trifft.",advance,LABEL_1,0.9935012459754944
+"Berater: Berater: der gesetzgeber sagt, eingebürgert werden soll, also einen anspruch auf einbürgerung hat derjenige, der eben diese leistungen nach dem zweiten oder zwölften sozialgesetzbuch nicht bezieht, ne.",non_advance,LABEL_0,0.9997848868370056
+"Berater: Ja, deshalb möchte ich –  – ich möchte Ihnen sagen, was ich da heraushöre oder was ich da als Fähigkeit sehe.",non_advance,LABEL_0,0.9924218058586121
+Berater: die stellen also die stellenangebote werden nur bei vollständigkeit übernommen das heißt ausübungsart ort mit postleitzahl notwendige kriterien und grundsätzlich nicht mehr als fünf kenntnisse und fertigkeiten.,non_advance,LABEL_0,0.8783499002456665
+Berater: in der zeitung wird dann also noch bekannt gegeben weil ich die sprEchzeiten von hier also nicht im kopf habe.,advance,LABEL_1,0.9985320568084717
+"Berater: für die beArbeitung, benödigen wir jetzt zwei wochen",advance,LABEL_1,0.9759414196014404
+Berater: und dann/ am schalter müsste man ja jetzt einen ausweis haben muss ich jetzt den kopieren?,advance,LABEL_1,0.9817818403244019
+"Berater: Berater: von wElchem stipen, ist es dE a a dE oder  von wo haben sie das stipendium?",non_advance,LABEL_0,0.9999088048934937
+Berater: Klient: und wie lange wird das dauern diese fiks die fiktion?,non_advance,LABEL_0,0.9998807907104492
+"Berater: Klient: ich habe diese, wie sagt man,
+das formular, das muster, ne?",non_advance,LABEL_0,0.9999908208847046
+Berater: wir bräuchten einen  nachweis dass wir sehen wie lang sie es bekommen haben sie haben ab september die studienbeihilfe bekommen,advance,LABEL_1,0.9949063062667847
+"Berater: Sie selber wiirden da schonja dazu sagen, wenn's Ihr Haus war', wenn Sie in einem eigenen Haus wohnen wiirden, waren Sie da nicht so?",non_advance,LABEL_0,0.9744669198989868
+"Berater: so, das original würd ich gern behalten?",advance,LABEL_1,0.9761099815368652
+Berater: Klient: und dann bin ich da eigentlich zur kantonalbank gegangen das war der grund weil ich früher eigentlich ursprünglich war ich hauptsächlich ein landbank kunde,non_advance,LABEL_0,0.9999364614486694
+Berater: wo ist denn die pflegebedürftige mitglied?,advance,LABEL_1,0.7250056862831116
+"Berater: sie kriegen jetzt erst mal ne neue zUsicherung, die adresse stimmt ja noch",advance,LABEL_1,0.9823881983757019
+"Berater: Berater: dann können wir darüber positiv urteilen denke ich, ne?",non_advance,LABEL_0,0.9999624490737915
+Berater: ich  kassiere immer weil wir kein kassenband haben ich kassiere immer so dass ich dir die sachen ausd em körbchen rausgebe.,non_advance,LABEL_0,0.8899889588356018
+Berater: wir sind alle bevollmächtigt das zu tun,advance,LABEL_1,0.9806422591209412
+"Berater: Tja, das hat kurz nach Beginn das drötten dritter das dritten schuljahres eingesetzt",non_advance,LABEL_0,0.9840981364250183
+"Berater: Berater: hmm, schönes woche, schönes tag.",non_advance,LABEL_0,0.999019980430603
+Berater: Berater: haben sie auch was haben sie studiert?,non_advance,LABEL_0,0.9998316764831543
+Berater: Dreieinhalb Jahre wäre jetzt also die kürzeste Zeit wenn man also jetzt von einem neuen Vertrag ausgeht.,advance,LABEL_1,0.712445080280304
+"Berater: Klient: aber die wollen dann eben unsere einbürgerungsurkunde sehen, ne?",non_advance,LABEL_0,0.9990257024765015
+Berater: sie waren schon vorne bei den Kollegen? Im einwohnermeldeamt?,advance,LABEL_1,0.9984939098358154
+Berater: ich suche was was im kübel bleiben kann,advance,LABEL_0,0.7187209725379944
+"Berater: das habe ich dann privat gemacht, das habe ich dann privat die voranzahlung geleistet.",non_advance,LABEL_0,0.9412755370140076
+"Berater: GieBerei macht man Modelle, die man in den Sand einbaut, und die nachher mit mit lih Eisen, mit flussigem Eisen ausgefUttert werden, und das Modell, das kann man wiederverwenden. Ah, Modellbauer oder Modellschreiner, also das, die Berufsbezeichnung, das sind Holzmodelle, das ist also ein Beruf mit Holz.",non_advance,LABEL_0,0.9999673366546631
+Berater: man kann auch eine finanzierung ohne eigenkapital zustande bringen.,advance,LABEL_1,0.9916893243789673
+Berater: das ist ja egal wo ich das jetzt gemacht habe das wird  ja doch anerkannt ich mein das das wird anerkannt ja?,non_advance,LABEL_0,0.9987257122993469
+"Berater: Berater: ja, sie wollten noch Unterlagen mitbringen, ne?",non_advance,LABEL_0,0.9999490976333618
+"Berater: Berater: das muss ich jetzt erstmal gucken, das ist, das muss ich erst überprüfen.",non_advance,LABEL_0,0.9999982118606567
+Berater: das ist eine kopfnote was du kräftige düfte geben kannst um die zu zersprengen um die zu lockern um die zu erweitern um die zu kristallisieren ne so kristallig zu machen.,non_advance,LABEL_0,0.8810333013534546
+Berater: wissen sie wissen sie auch was über die dOrferneuerungprogramme wie das läuft?,advance,LABEL_1,0.9773444533348083
+"Berater: Klient: dann muss ich mich da an die a o ka wenden, oder wie?",non_advance,LABEL_0,0.9979098439216614
+"Berater: Berater: und der ist eben, und der wird eben geführt entweder durch ein abschlusszeugnis oder
+durch vier jahrezeugnisse aber das abschlusszeugnis, qualifizierder hauptschul-quAlifizIerender hauptschulsabschluss,
+ist a schönes wort, den haben sie und der reicht aus.",non_advance,LABEL_0,0.9996191263198853
+Berater: sie wollen dann ja sowieso also oder können ja auch praktisch nicht hier in den schuldienst gehen.,non_advance,LABEL_1,0.8281786441802979
+Berater: und man kann mit den vermögenswirksamen leistungen eben auch den vertrag wenn er zuteilungsreif ist später tilgen.,advance,LABEL_1,0.9050060510635376
+"Berater: ja also dann empfiehlt sich das schon mit ner gartenspritze es gibt sons die möglichkeit mit einem gartenspray also direkt anwendungsfertiges spray
+",non_advance,LABEL_0,0.7617365121841431
+Berater: nein also es ist so ich schicke ihnen das ganze eingeschrieben und mit dem würden sie eigentlich nachher identifiziert,advance,LABEL_0,0.6014254689216614
+Berater: ich sage ihnen auch (die) depotnummer das ist 0 null 5 5 3 bindestrich 578.,advance,LABEL_1,0.7388295531272888
+"Berater: kann es sein, dass das konto vielleicht zu dieser zeit zu stark im minus war, dass man warten musste bis der kontostand wieder gedeckt war?",advance,LABEL_1,0.9703584313392639
+"Berater: Berater: wenn sie, wenn ich sie wieder reinrufe, immer erst bei abholung, bei
+aushändigung das aufenthaltstitels, ok?",non_advance,LABEL_0,0.999492883682251
+"Berater: und wenn ich jetzt den antrag noch stellen würde, würde es ja sicher gar nicht mehr realisierbar sein; wenn das nur für ein halbes jahr gilt, ja?",advance,LABEL_1,0.9943463206291199
+Berater: sie hat mir extra auf der bank diese nummer aufgeschrieben und hat gesagt ich könne über diese nummer heute anlagen machen wenn ich wolle.,advance,LABEL_1,0.9344130158424377
+Berater: ja da ist alles schon richtig so vorgedruckt,advance,LABEL_1,0.98712557554245
+Berater: ich habe da eine frage wegen geld wechseln und zwar geht es um mein konto müsst ihr da die kontonummer haben von mir?,advance,LABEL_1,0.9899412989616394
+"Berater: An sich werde ich Ihnen schon mal sagen, das ist oke, dass Sie den Antrag gestellt haben aber Sie werden mit Sicherheit keine Erlaubnis kriegen.",advance,LABEL_1,0.9554011225700378
+"Berater: hier ist B aus x-stadt, ich rufe an wegen der eigenheimfinanzierung",advance,LABEL_1,0.556046187877655
+Berater: und mal checken ob der wundstarrkrampf die impfung noch aktuell ist,advance,LABEL_0,0.8817100524902344
+"Berater: Berater: gEnau, da stehn, in dem Oberen kasten stehen die auslandsaufenthalte, damit ist gemeint
+von geburt bIs zur einreise wo sie sich da aufgehalten hat, ja?",non_advance,LABEL_0,0.9998181462287903
+"Berater: Klient. ja ich habe erst vor kurzem ange - arbeit aufgenommen, also das dauert.",non_advance,LABEL_0,0.9915308952331543
+Berater: da sind EInerseits am neunundzwanzigsten september die abschlussbuchungen vorgenommen worden.,advance,LABEL_1,0.9931628704071045
+"Berater: da brauch ich  die einkommensunterlagen von den eltern und das andere ist die überprüfung der zuverdienstgrenze
+",advance,LABEL_1,0.9776977896690369
+"Berater: Dann, nach diesen dreieinhalb Jahren, würden diese acht Prozent wieder abgelöst werden –
+mit dem zugeteilten Vertrag.
+Und dann kommen Sie ja runter auf viereinhalb Prozent.",advance,LABEL_0,0.923099160194397
+"Berater: 1st Ihnen der Ubergang yom Berufsleben zum, zur Hausfrau schwer gefallen?",non_advance,LABEL_1,0.6738548874855042
+Berater: wIe lAnge sind sie schon in dEutschland?,advance,LABEL_1,0.9923341274261475
+Berater: sie können auch verhindern dass es verklebt wenn sie einfach ne desinfiziernde salbe jodsalbe oder so draufmachen bevor sie ein normales pflaster draufmachen  oder eine panthenolsalbe,advance,LABEL_0,0.8379985094070435
+Berater: ich sage ihnen gleich den letzten stand gestern hat er abgeschlossen mit null 17 und jetzt steht er null 12 zu null 6,advance,LABEL_0,0.8235275149345398
+Berater: haben sie diesen zEttel mitbekommen? hier diese mUster?,advance,LABEL_1,0.9875556826591492
+Berater: wie siehts denn mit`m biometrischen foto aus? haben sie uns das letzte mal schon eins gegeben?,advance,LABEL_1,0.9280369877815247
+Berater: warum soll man nicht einen schulpsychologen mal befragen?,advance,LABEL_1,0.9390926957130432
+"Berater: Also, wenn Sie sich das einfach mal so überlegen –
+Sie arbeiten ja zusätzlich dazu.
+Das bedeutet:
+Sie werden irgendwo Abstriche machen müssen.
+Das heißt, ein paar Dinge werden Sie einfach nicht richtig mitverfolgen,
+sondern nur so an sich vorbeirauschen lassen.",non_advance,LABEL_0,0.503174364566803
+"Berater: es wird auch ne übergangsregelung geben, die ist aber  im detail hier noch nicht bekannt",advance,LABEL_1,0.9969094395637512
+Berater: okay.  wo soll ich anrufen?,advance,LABEL_1,0.995947539806366
+"Berater: das kommt drauf an wie hoch das abgeschlossen ist, die privatversicherung.",non_advance,LABEL_0,0.8464109301567078
+Berater: ja wird ihnen auch was anerkannt,advance,LABEL_1,0.977268397808075
+"Berater: Ich wollte mich mal. wieder ma erkundigen, wann ich denn mein update bekomme, was ich am fünften, am zwoten fünften reklamiert habe.",non_advance,LABEL_1,0.738580048084259
+"Berater: Ich bin gerade am Überlegen,
+weil bei der Guthabenverzinsung sage ich drei Prozent,
+für das Darlehen zahlen Sie viereinhalb Prozent.",advance,LABEL_0,0.9885610938072205
+Berater: warum Ist das jetzt wEggefallen zum ersten vIerten sIeben?,advance,LABEL_1,0.9693995714187622
+Berater: haben Sie  diese Broschüre bekommen?,advance,LABEL_1,0.8927525281906128
+"Berater: manches dauert dann länger als gedacht also so die zeiteinschätzung  wie planen sie denn ihre woche?
+",advance,LABEL_1,0.6367623805999756
+"Berater: Berater: Okay, alles klar?",non_advance,LABEL_0,0.9999939203262329
+"Berater: Berater:  also bisschen mehr wie drei monate und dann müssten sie halt am ball bleiben mit
+ihrem, mit ihrer geburtsurkunde?",non_advance,LABEL_0,0.9979031085968018
+Berater: haben sie schon so eine broschüre von uns oder möchten sie da nochmal was mitnehmen?,advance,LABEL_1,0.9790133237838745
+Berater: jetzt noch die frage und wenn ich ein lohnkonto oder rgendetwas bei ihnen hätte würde da irgendwie die spesen vermindert?,advance,LABEL_1,0.9953868985176086
+Berater: und  bekommt dann eben von der privatversicherung vielleicht den vollen betrag den restbetrag was übrig|bleibt.,non_advance,LABEL_0,0.6926794052124023
+"Berater: Berater: haben sie ein biome-  nee, immatrikulatiOnsbescheinigung bitte?",non_advance,LABEL_0,0.992272138595581
+Berater: Sie sind eingereist ins bundesgebiet?,advance,LABEL_1,0.9913799166679382
+Berater: und wir werden jetzt gedrängt weil das wohl innerhalb bis zum jahresende dann auch über die bühne gelaufen sein,advance,LABEL_0,0.6291303634643555
+"Berater: Berater: wie sie selber gesehen haben, kann man das ganz schlecht lesen dass sie mir halt die krankenversicherung nachreichen, ja?",non_advance,LABEL_0,0.9984133243560791

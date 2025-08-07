@@ -1,0 +1,964 @@
+input_text,end_label,predicted_label
+"Wer kann Meinung erklären, S3. Versuch mal. […]",advance,0
+Du bist dran.,advance,1
+"Bitte was? Was hat S3 denn gesagt, wiederholst du es bitte nochmal? ",advance,1
+"Du WEISST nicht mehr, was du gesagt hast?",advance,1
+S2. Was hat S3 getört?,advance,1
+"[…] Denkst du nochmal drüber nach? S25, du kannst uns das erklären. Definitiv. Los. Schieß los. Warum kannst du uns das nicht erklären?",advance,0
+"Stimmt nicht, sagst du? Warum nicht? S29, warum findst du nicht, dass das stimmt? ",advance,0
+"Kannst du nochmal erklären, S3. Wo kommt dieser wundervolle Pullover her?",advance,0
+" Lauter, sag nochmal.",advance,1
+" wie soll sollen zusammen überlegen, was da überhaupt wichtig so ist und dann zusammen aufschreiben.",advance,0
+Jede Gruppe. Als Gruppe füllt ihr die Felder aus.,advance,0
+"Meinst du, dass du es schaffst mit der Gruppe zusammenzuarbeiten?  Andere Frage, MÖCHTEST du mit der Gruppe zusammenarbeiten?",advance,0
+ was meint ihr wie lange braucht ihr noch um das fertig zu machen?,advance,1
+"So, dann legt bitte alle die Stifte hin.",advance,1
+Jetzt schreib einfach deinen Namen hierhin (zu S2) klein oder Groß.  ,advance,1
+"So in den Gruppen wurde ganz ganz intensiv gearbeitet. Und da würde ich sagen, ihr fangt jetzt mal an eure Ergebnisse [vorzustellen. Ihr] könnt auch gerne alle nach vorne kommen.",advance,0
+So alle drehen sich zur Tafel hin. Dass ihr die Kinder anschauen könnt.,advance,1
+[Wie wollt] ihr denn vorlesen? Von oben nach unten?,advance,1
+"Mhm gut. , dann war ja die FRAGE, oder eure Aufgabe, jeder darf ausreden, die anderen hören gut zu und ihr bezieht euch aufeinander. ",advance,0
+"Okay, wollt ihr noch etwas dazu sagen, wie gut das geklappt hat?",advance,1
+"S, einen Moment bitte, S drehst du dich bitte mit dem Stuhl zur Tafel? ",advance,0
+"Gut dankeschön, dann nehmen wir die Gruppe in der Mitte.",advance,1
+So ich hab gerade was richtiges gehört. Aufzeigen wäre schön. S7.,advance,0
+Aha. Was ist das WICHTIGE bei einer Diskussion? An welche Regel müsst ihr euch halten? ,advance,1
+Schreibt mal noch eure Namen oben drauf.,advance,1
+"Ja da ja das ist doch nicht schlimm, Hauptsache ihr habt das da stehen.  ",advance,0
+"Deshalb schaut dass ihr jetzt wirklich fertig werdet und eine kurze Antwort aufschreib, es reichen auch zwei drei Stichworte.",advance,0
+Wenn ihr das alle so seht dann schreibt das dahin.,advance,1
+"So ihr hört jetzt auf zu schreiben und dann möchte ich gerne, dass die Gruppen kurz vorstellen was sie geschrieben haben.  ",advance,0
+"Warte mal S7, geh mal die Reihe nach unten durch. Am Anfang fühlt er sich traurig und erschrocken und dann woran-",advance,0
+Kann man auch zu zweit arbeiten? DAS ist ne Gruppe.,advance,1
+"Also dass ihr euch da absprecht und S11 schreibt es dann da auf das, also in Ordnung so, so ist das gemeint oder?",advance,0
+"Ja genau in die Gruppen, in denen ihr da hier gesessen habt, in die ihr zusammengesessen habt, geht ihr jetzt auch wieder zurück.",advance,0
+"Dann schreibst du das einfach drauf und dann kann, und dann kann das ja sein, dass, wenn S7 zum Beispiel da schreibt , das hab ich auch schonmal erlebt.",advance,0
+Mhm. Du hast uns netterweise deine Meinung gesagt. Möchte da noch jemand dazu oder Bleiben wir jetzt dabei?  ,advance,0
+Mhm. Okay. So ich denke an dieser Stelle machen wir nochmal Stop.,advance,0
+"Erinnerst du dich, was du {noch} gesagt hast, weisst du nicht mehr?",advance,1
+Ja. Was haben die anderen dazu?  ,advance,1
+"Hm. Geb doch mal das Wort weiter, an den S2 noch.",advance,0
+"Das würde mich jetzt sehr interessieren, wie du das jetzt verstehst.  ",advance,0
+"Woran hat du das erkannt, dass der Champion war?",advance,1
+"Schau mal, jetzt melden sich Kinder, die noch nicht gesprochen haben.",advance,0
+"Beginnen wir mal mit der Gruppe von S. S, was hat geklappt in eurer Gruppe und was könnt ihr vielleicht beim nächsten Mal verändern?  ",advance,0
+"Kanst du dich erinnern, was ihr in die Mitte geschrieben habt?",advance,1
+"Guck doch mal, was die anderen Kinder dazu geschrieben haben.",advance,0
+"Ja, vielleicht stellt noch jemand sein Feld vor? […] S.",advance,1
+"Ne, geboxt nicht, getanzt meinst du. ",advance,1
+Jede Gruppe von euch hat einen Zettel auf ihrem Tisch liegen.,advance,1
+"S5, was, oder S6, was habt ihr auf eurem Zettel stehen?",advance,0
+"Okay. S7, was habt ihr da stehen?",advance,1
+Was hat die Geschichte mit anderem sein zu tun?,advance,1
+"Genau. Die Frage, habt ihr ALLE eure Frage verstanden?",advance,0
+"S1, du hast es nicht verstanden, okay, dann lies nochmal vor.",advance,1
+"Versucht jetzt einmal beim zweiten Gucken, auf eure Fragen zu achten, das heißt achtet mal darauf, S12, achtet mal darauf, was, welche Dinge so gehören zum Anderssein, und was VERÄNDERT sich im Verlauf der Geschichte?",advance,0
+Und nicht was? Nochmal?,advance,1
+"Was denken die anderen, die die Frage nicht hatten?",advance,1
+"S2 du bist überhaupt nicht dran, du musst dich melden.",advance,1
+"Legst du das weg, schaut euch jetzt mal den nochmal an.",advance,1
+"Also ich kann überhaupt nicht zeichnen, ich kann das bilderich darstellen. Könnt ihr bitte erst überlegen.",advance,0
+"Wie hat die Arbeit geklappt in euer Gruppe, wollt ihr dazu noch etwas sagen?",advance,1
+Die Arbeit war eigentlich ganz passabel.,advance,1
+Hat jeder etwas dazu beigetragen? Oder habt ihr diskutiert oder nur gesabbelt?,advance,0
+"Okay, du meinst jetzt die biologische Vielfalt.  ",advance,1
+"Kurze, eine Minute Murmelphase zum Inhalt des Buches, was habt ihr gesehen, was ist euch aufgefallen?  ",advance,1
+Hast du ein Beispiel?,advance,1
+"Was noch, was habt ihr noch genauer gesehen, wenn ihr jetzt auf die Bilder schaut.",advance,0
+"Ihr könnt auch gerne mit Beispielen hinterlegen, also begründen, das was ihr da geschrieben habt, warum ihr, also was damit gemeint ist.",advance,0
+"Anmerkungen, Fragen dazu? [...] Dann gehen wir noch eine Gruppe weiter.",advance,0
+"Du kannst- ihr müsst nicht sagen erste Frage, zweite Frage könnt einfach aufschreiben, was ihr für Notizen gemacht habt.",advance,0
+"Ja, das kannst du ja auch aufschreiben. ",advance,1
+"So, mit Blick auf die Zeit, noch zwei Minuten würd ich das noch schnell [...] zum Abschluss bringen. ",advance,0
+"Ja, so sollte man das vielleicht nicht aufschreiben.",advance,1
+"Ist das in ordnung, wenn wir weitermachen?  ",advance,0
+"""Name"" ist das verständlich?",advance,1
+"Sie dürfen auch gerne laut sprechen.Und diese Fragen gerne auch diskutieren innerhalb der Gruppe, ja?",advance,0
+"So,ich würde sagen, noch zwei Minuten, dann fangen wir an mit der Vorstellung.",advance,0
+Möchten Sie gerne Filzstifte nutzen?  ,advance,0
+"Vergessen Sie bitte nicht, dass {alles} aufzuschreiben.",advance,0
+Darf ich das so aufschreiben?,advance,1
+Kommt ihr klar?,advance,1
+"Ja, genau, kommt gleich bitte nach vorne, dass, dann sieht und hört dich jeder besser.",advance,0
+Gibt es Rückfragen?,advance,1
+Kannst Du das auch noch mal wiedergeben oder soll‘s S11 machen?,advance,1
+Bist du schon fertig? Dann schreib gerad noch.,advance,1
+"SO, darf ich jetzt noch mal, hier zum Stundenende noch mal um eure Aufmerksamkeit bitten?  ",advance,0
+"Kurze Bemerkungen in den Gruppen, hat das funktioniert, hattet ihr das Gefühl, , ihr konntet da schon was davon umsetzen, ist das völlig ignoriert worden, , kurze Kommentare dazu, zu den einzelnen Gruppen?  ",advance,0
+Guckt es euch genau an und redet dann darüber.,advance,1
+"Steht bitte auf und guckt euch alle Bilder genau an, weil das, hier vorne fängt das an und hier hört es auf.",advance,0
+"Ja überlegt nochmal weiter, guckt euch das nochmal an, versucht mal zu diskutieren.  ",advance,0
+"Was würdet ihr dann zusammenfassend nochmal sagen, also zu Vielfalt, also was was zu viel ist?  ",advance,1
+"Kann einer von euch einmal erzählen, was ihr so rausgefunden habt.",advance,0
+Und möchte sonst noch einer was sagen?,advance,1
+"Vielleicht redet ihr da nochmal drüber, über die einzelnen Punkte, okay?",advance,1
+Schafft ihr das gleichzeitig? ,advance,1
+"Mach den Strich da weg, das ist ein Strich zu viel.  ",advance,0
+"Dieser Begriff Vielfalt, könnt ihr damit noch was anfangen, was ist Vielfalt?",advance,1
+Habt ihr Schwierigkeiten?,advance,1
+Wo ist das Problem?,advance,1
+Seid ihr fertig?,advance,1
+"Wenn man nicht spricht, kann man sich schle-, kann man sich schwer unterhalten, ne?",advance,0
+"So, wie sehen die andern das?",advance,1
+"Aber die jetzt quasi nicht, so meinst du das ? ",advance,1
+"Ja, versuch doch einfach, es gibt ja kein richtig und falsch. ",advance,0
+"SO, in 2-3 Minuten fangen wir an.",advance,1
+"Also, wir haben aufgeschrieben, dass es um verschiedene Geschichten geht, also Fantasy auch, also das sind jetzt so Geschichten, die es eigentlich jetzt nicht so gäbe.  ",advance,0
+"S12, kannst du lauter sprechen, bitte?",advance,1
+"Du hast am Anfang gesagt, mit dem Häuserblock, dass habe ich noch nicht ganz verstanden.",advance,0
+"Wozu würde das passen, was eure Gruppe jetzt gerade gesagt hat?",advance,1
+"Was S23 gerade gesagt hat, nochmal wiederholen.",advance,1
+"Es gab einige Schwierigkeiten, diese Aufgabe zu bewältigen.",advance,0
+"Kann ich bei euch anfangen, ja?",advance,1
+"Ja, erklärst du das noch etwas genauer, was bedeutet das, respektieren?",advance,0
+Magst du mal laut und deutlich lesen?,advance,1
+"Ja , oder was könnte der noch sagen? […] Denk mal weiter.",advance,0
+"Wäre das möglich, dass ihr auch zuhört, weil wir das nachher noch mit dem vergleichen wollen, was ihr gesagt habt, dankeschön. ",advance,0
+"Also, oder gibt es von den anderen noch irgendwelche Rückfragen?  ",advance,0
+Also wenn ihr was ergänzen wollt einfach eingreifen.,advance,1
+Soll ich jetzt einfach mal die Definition vorlesen?,advance,1
+"Kannst es nicht lesen? Hier vorne, S4.",advance,1
+"Okay, möchte noch jemand etwas ergänzen zu seiner Geschichtenbeschreibung? ",advance,1
+"OKAY, noch zwanzig Sekunden, dann berichtet mir aus jeder Gruppe einer ein  schönes Beispiel.",advance,0
+"OKAY. Gruppenarbeit beendet, wer möchte anfangen?  ",advance,0
+"Sie müssen, wenn Sie hier fertig sind, in der Lage sein, sich selbstständig etwas Neues zu erarbeiten.",advance,0
+"Fünf Wochen sind es bis zu den Fastnachtsferien, danach habt ihr Abitur.  ",advance,0
+"Haben wir ein Beispiel, ich glaub schon. Ah, ja. Okay.",advance,0
+"Okay, fangen wir links an, euer Beispiel.",advance,0
+Sie haben schon eine Definition?,advance,1
+"Super, dann können Sie sich hier hinten an den Computer anmelden, wenn Sie möchten.",advance,0
+"WAS sehen Sie so, können Sie ds nochmal genauer erläutern?",advance,0
+"[Okay, ja]. Wie sehen das die anderen? Sehen die das genause wie S?",advance,1
+"Herr Schneider, haben Sie eine E-Mail bekommen mit dem Sponsorenbrief?",advance,1
+"Vierte Stunde ist das, oder?",advance,1
+Ich nehme S6 dran und dann dürfen die übrigen weiter drannehmen. S6!,advance,1
+"Ich kann wirklich nicht so viel Zeit aufbringen, weil ich gehört habe, dass die 13/2 am Montag eine Deutscharbeit schreibt, das heißt, da fehlen mir wieder einige.",advance,0
+"Ich erschrecke jedes Mal, wenn ich in den Kalender schaue, wir haben nur noch fünf Wochen.  ",advance,0
+"Zwei Klassenarbeiten, in VWL schreiben wir nur eine.  ",advance,0
+"Und die zweite Aufgabe ist über Kapitel D, aber der Schwerpunkt Bilanzkennzahlen also das, was wir gerade machen",advance,0
+"Ich habe ja mal gesagt, dass ich mit euch noch so eine Art kleinen Crashkurs machen möchte zur Abivorbereitung.",advance,0
+"Wir brauchen die fünf Wochen in BWL zwar nicht ganz, um den Stoff fachlich aufzuarbeiten.  ",advance,0
+"Vor zwei Jahren habe ich das auch gemacht in VWL mit einer Klasse, da waren auch alle komplett da.  ",advance,0
+Dann starten wir nächste Woche mit dem Übungsteil.,advance,0
+"Ja, ist hauptsächlich für die Berufsschule, aber ich dachte, es betrifft euch vielleicht auch mal.",advance,0
+"Es hat immer irgendjemand Mittagsschule, cann können wir es gleich vergessen.",advance,0
+"Es hat immer irgendjemand, und wenn es nur dienstags Bio ist, montags ist es alles andere.",advance,0
+"Dienstag wäre lockerer, die meisten haben nur sechs Stunden. Ich glaube, Conny hat als Einziger sechs, der Rest hat maximal vier",advance,0
+Habt ihr in der fünften und sechsten Stunde Unterricht?,advance,0
+Die Klassenarbeit haben wir jetzt festgelegt auf den 18.,advance,1
+"Ja, das kommt so in der Klausur vor – genauso.",advance,1
+Wir legen los – alle brauchen jetzt zwei Blätter.,advance,1
+"Aufgabe eins: Berechnet die Kennzahlen zur Kapitalstruktur für das Jahr 2007: was sagen die Kennzahlen zur Kapitalstruktur generell aus?
+",advance,1
+"Yilmaz, Matthias – erkundigen Sie sich nach dem Klassenarbeitstermin auch?",advance,0
+" 
+Generell schon mal richtig: Wenn es nur eine Seite der Bilanz betrifft, ist es vertikal, das heißt  von oben nach unten gesehen und nicht von links nach rechts.  ",advance,0
+"So argumentieren in der mündlichen Prüfung, dann kann eigentlich nicht viel passieren.",advance,0
+"Schaut mal auf das zweite Blatt, ganz unten, unter den zwei kurzen Strukturbilanzen.",advance,0
+Nehmt gerade mal noch das andere Blatt was ich euch schon lange ausgeteilt habe.,advance,1
+Und nur die ersten drei Bilanzkennzahlen lasst ihr mal weg. Darauf gehen wir speziell nochmal ein.,advance,0
+Also jeder macht das mal fünf Minuten zu zweit.,advance,1
+"Wer kann kurz erklären, was Rückstellungen sind?
+",advance,1
+"Ja, auf welcher Seite sind wir eigentlich?",advance,1
+"Karin, sagen Sie mir nochmal, was die dreißig Prozent aussagen.",advance,0
+"Aufgabe zwei unten, gerade noch das ausfüllen.Tina, lesen Sie mal vor, bitte.",advance,0
+"Fanni, was sagst du darfst anfangen wo du willst.
+",advance,0
+"Jetzt brauchen wir den Overhead, ne?",advance,1
+"Das kannst du auch unten drunter lesen, weil es so klein ist, kannst du’s lesen?",advance,1
+"Wenn das jetzt eine Klausurfrage wäre – mein lieber Schwan, du bist in der 13. Klasse kurz vor dem Abitur.",advance,0
+"Also wenn du es gewusst hättest, dann hättest du es halt sagen müssen.",advance,0
+"Was stellst du fest, welche Entwicklung? ",advance,0
+Haben wir dazu eigentlich schon was aufgeschrieben?,advance,1
+"Ich würde ganz kurz gerne Seite, die ich aufgegeben hatte – gelesen habt.",advance,0
+ja guckt euch gucken wir uns ganz kurz die forderungen an was sagt ihr zu diesen forderungen,advance,0
+Also für mich war die schönste Stelle wo er angefangen hat mit der Trompete zu spielen.,advance,1
+und wissen sie die beiden prüfer sind ja gleichberechtigt es ist ja nicht nicht so als ob der eine beisitzer wäre oder.,advance,0
+"das hielte ich für  studientaktisch, außerordentlich klug das zu tun weil weil das sonst ziemliche irritationen auch für Sie ist das doch sehr viel sicherer.",advance,0
+wichtig zur prüfung insgesamt sie müssen die gesprächsführung sozusagen machen,advance,0
+ich wollt bloß noch mal fragen wegen dem examen.,advance,1
+also ich muss in wirtschaftsgeographie eine vierstündige klausur schreiben.,advance,0
+"wie sieht es denn aus; könnte man bei Ihnen eine diplomarbeit schreiben, n irgendwie wirtschafts-geographischen bezug?",advance,0
+"Und sonst, die exkursionen die halt mit den seminaren stattfinden, muss ich als wirtschaftswissenschaftlerin; auch an den seminaren teilnehmen, oder kann ich die jeweiligen dozenten fragen; ob ich nur die exkursion brauche?",advance,1
+"also meines wissens sind noch plätze da; ich hab jetz nich die letzten stand, weil heut nachmittag haben wir ja vorbesprechung.",advance,0
+ja hat mir der herr kerch nämich heute morgen erzählt,advance,1
+"ja; auch da muss ich unterstellen, dass Sie wahrscheinlich, das so gemacht haben; wie Sies grade nicht machen sollten.",advance,0
+"jetzt schauen sie sich mal diese anlage an.
+",advance,1
+Wer kann erklären warum durchgeschaltet wird?,advance,1
+Vielleicht können wir das ganze mal von vorne machen?,advance,1
+woher wissen se jetzt dass blende im luftspalt steht?,advance,0
+"welche Aufgabe hat diese Diode, wer kann das erklären?",advance,1
+"wir sind immer noch beim thema handelsfeld nummer vier
+ausbildung im betrieb selbst
+ich wiederhole das nochmal kurz damit sie wieder einen anschluss kriegen.",advance,0
+"heute nun geht es um das thema ziel der ausbildung, so heute wird einiges an der tafel stehen",advance,1
+"was is des ziel, welches ziel verfolgen sie  wenn sie ausbilden?",advance,1
+Sagt Ihnen der Name Bobby Fischer was?,advance,1
+"neunzehnhundertzweiundsiebzig da wurde er gerade weltmeischter in schach
+",advance,0
+also er brauch kenntnisse  und er muss es handwerklich auch drauf haben ja für jeden handwerksberuf,advance,0
+Wie nennt man das wenn jemand gut mit Menschen umgehen kann?,advance,0
+er sollte auch vielleicht noch die fähigkeit haben die zwei sachen  miteinander verknüpfen zu können.,advance,0
+Sie machen das bitte jetzt in Partnerarbeit,advance,1
+"was kennzeichnete diese kollegen aus mit denen sie gerne zusammengearbeitet haben?
+",advance,0
+ja geht so in die richtung was die beide gesagt haben,advance,1
+ja wie guckt jemand der arrogant guckt wie würden sie sagen?,advance,1
+"genau rücken zuwenden, richtig",advance,1
+anzeichen  für mangelnde soziale kompetenz wäre?,advance,1
+zum beispiel wenn man sich mit dem  über nichts unterhalten will außer die arbeit zum beispiel auch,advance,1
+ja vielleicht so generationenprobleme dass wenn ein extrem junger  mitarbeiter mit einem  ziemlich alten zusammenarbeitet,advance,0
+"was wäre jetzt zum beispiel ein unangenehmer kollege vielleicht älterer kollege für sie?
+",advance,0
+warum macht jemand so was  mit absicht informationen zurückhalten?,advance,1
+das könnte man auch darunter verstehen man könnte aber auch verstehen er hat vielleicht schon mehr erfahrung in dem bereich behält es aber  bewusst zurück,advance,1
+"
+wenn man mit jemandem arbeitet der  eigentlich nie was sagt und ach information  für sich behalt in dem moment
+",advance,1
+ so in die richtung genau,advance,1
+aber ich denke die anderen sind soweit mit einverstande was der herr günther ach vorhin gesagt hat,advance,0
+ja  teamarbeit muss funktionieren sonst fährt  der betrieb gegen die wand.,advance,1
+wie würden wir das mathematisch jetzt ausdrücken wie setzt er sich zusammen?,advance,1
+ja ich würde das jetzt so sehen wie der gesamtwertungsgrad,advance,1
+es] kommt null raus was ist wenn des hier null ist?,advance,1
+sie müssen ach gute  kollege sein sie müssen auch sozialkompetent sein sonst bringt das nichts.,advance,0
+das zentrale ziel das heißt kompetenzen zu erwerben  im umgang mit literarischen texten,advance,0
+genau die identitätsbildung und interaktionsfähigkeit das ist das hauptbildungsziel.,advance,0
+vielleicht würden manche lehrer aber das andere modell bevorzugen aber dazu kommen wir gleich noch aber jetzt schauen sie mal,advance,0
+ja richtig das ist zentrales ziel des literaturunterrichts und dient  der erreichung,advance,1
+empathie dient ja eben der identitätsbildung,advance,1
+sie dürfen gerne malen oder auch so erklären,advance,1
+die identitätsbildung würd ich an die spitze setzen,advance,1
+wie ist es denn mit der lesemotivation  bei  leubner saupe und bei spinner?,advance,1
+"können heutige schüler damit was anfangen und wenn ja was?
+",advance,1
+"die schüler haben die möglichkeit sich mit figuren zu identifizieren oder auch eben nicht, das is in einem sachtext nicht gegeben",advance,0
+"man kann subjekti]ve deutungen auch vornehmen
+",advance,1
+was könnte für lehrer überhaupt schwierig sein an diesem wohlgeordneten model?,advance,0
+ja  und bei leubner saupe is also das textverstehen ganz wichtig um eben die bildungsziele zu erreichen,advance,0
+mein thema ist  das thema literarisches lernen,advance,1
+" sie dürfen auch in ein exemplar hineinschauen wenn sie mögen
+",advance,1
+Könnten Sie das näher ausführen?,advance,1
+aber was genau wenn ich ein drama aufführe was muss ich ergänzen?,advance,1
+"das ziel ist kommunikationsfähigkeit auszubilden in ganz verschiedenen kommunikativen lebenssituationen
+",advance,0
+"schreibdidaktik  ganz wichtig jetzt in  neuerer zeit die prozessorientierte schreibdidaktik was besagt denn die?
+",advance,0
+was ist noch sehr wichtig oder was muss noch besonders berücksichtigt werden bei der überarbeitung häufig?,advance,1
+"ja dass das was sie produzieren nicht ausreicht um alles  was sie verkaufen zu decken und deshalb müssen sie aus dem lager verkaufen
+",advance,0
+Warum gehören die betriebskosten nicht dazu?,advance,1
+"ja, also ich muss ja nur die scheine einreichen für lehramt;",advance,1
+"ich wäre auch nach
+dortmund gegangen; aber ich wollte lieber hierhin;",advance,1
+"ja
+auf alle falle; da hätte ich
+auch drauf geachtet;",advance,1
+das stimmt auch wieder.,advance,1
+ und warum sind sie denn nicht gekommen?,advance,1
+ja; also das geht um das seminar vom lesen und schreiben und da wollte ich einen kleinen schein abholen.,advance,1
+"das war ne sehr selbstständige arbeit ich habe Ihnen geschrieben; eine sehr gut informierte arbeit, die historisches hintergrundwissen überzeugend mit textanalyse verbindet;",advance,0
+"was ist jetzt der witz an dieser normalparabel hier?
+",advance,1
+und wenn Sie ein bisschen übergreifender das ganze bearbeiten?,advance,0
+"also das könnten Sie zumindest in der einleitung diskutiern, und dann haben Sie ein bisschen mehr literatur die Sie angeben können.",advance,0
+"So…ich habe hier ein Papier hingelegt und würde sagen, besprecht mal in der Gruppe sofort zu erst und notiert  ein bisschen was.",advance,0
+"Ich gebe Ihnen wieder solche Zettel zur Auswahl und Sie können sich einen aussuchen, den Sie möchten.",advance,0
+dann fangen wir vielleicht ganz einfach an  mit der nummer eins,advance,1
+"gibt es noch was was sie unbedingt sagen möchten 
+wo sie das gefühl haben wenn ich das jetz nicht sage dann ist meine ganze prüfung nichts wert",advance,1
+also erklären sie mal an einem beispiel was ihnen jetzt selber einfällt,advance,1
+"wenn Sie sich bemüht haben, mehr kann man nich verlangen, das buch können wir nicht herzaubern, wenn das verliehen ist, dann müssen wir uns eben mit den anderen soweit behelfen.",advance,1
+"ja; und zu DIEsen sachen hier, reicht dieses jetzt? oder muss ich das von dem (...) auch noch; im detail wissen?",advance,1
+"also ich hab noch gehört, das dürft natürlich;
+ nich das gleiche thema sein, wie das schon ma WAR; also vielleicht  muss, also auf jeden fall irgendwie eine schwerpunktverlagerung irgendwo rein jetzt, wie kann man das machen;",advance,0
+ja; das hatt ich in der hausarbeit ja schon drin. das  so ich glaub drei vier verschiedene.,advance,1
+"und was könnte man dann da so untersu-chen, meintwegen also jetz sprache, grammatische sachen, so.",advance,0
+"und wie könnte man das konkret nennen, dann das thema, also ich muss das denen glaub ich auch noch reinreichen;",advance,1
+"ja norMAlerweise, müssen Sie das nicht, einreichen; sondern  das reicht der prüfer ein.  ",advance,0
+"Sie können sich das ja anschauen und dann sagen Sie mir noch mal bescheid, und dann   formulier ich das
+thema endgültig.",advance,0
+"man könnte natürlich auch das thema generell n bisschen weiter fassen; aber (jetz) Sie haben ja nur ne begrenzte zeit, insofern halt ich es für sinnvoll, das thema doch schon; ; deutlich einzugrenzen; das erleichtert Ihnen die arbeit denke ich.",advance,0
+"dann machen Sie das für beide themen, und  überlegen sich das noch mal mit der eingrenzung des themas, wie das  letzendlich aussehen soll;",advance,1
+"ich würde vorschlagen, Sie schaun sich das vielleicht mal an, also was was es da gibt, auf dem;  sektor, und  kommen sie einfach nächste woche noch mal kurz vorbei, oder Sie schicken mir eine email",advance,0
+also die woche vor ihrer prüfung bin ich nicht da.,advance,0
+"also da gibt es natürlich auch noch ganz interessante sammelbände; inzwischen,
+überlege ob das sinn macht die Ihnen noch zu nennen",advance,1
+"dann nehm ich mir das einfach in die akten, das ist doch jetzt schon, der kommende prüfungstermin.",advance,0
+"ich guck mal gerade bei IHnen bin ich  ja glaub ich mündlicher prüfer; ne,",advance,1
+"ja; bis zum dreiundzwanzigsten; müssen Sie_ glaub ich die prüfungsthemen einreichen; ne,",advance,0
+"vielleicht noch mal vor der mündlichen noch mal vorbeikommen, so dass man dann da bespricht, oder?",advance,0
+"also tun Sies in jedem fall dann; wenn Sie klärungsbedarf haben oder für sich unsicher werden ob des teilgebietsverständnis noch übereinstimmt, oder Sie oder ich mich weiterentwickelt haben;",advance,0
+"den würde ich also wenn ich, danach frage; überhaupt; allenfalls am rande mit reinnehmen können; wegen der nähe zur magisterarbeit;",advance,0
+"ich brauch die thesenpapiere nur kurz vor der prüfung, das is sozusagen das endgültige festklopfen, auch für Sie, dieses check up; was ist jetzt prüfungsgegenstand.",advance,0
+"also, ich mach da nicht den druck;  klausur is bei uns jetz noch nicht ne, nicht dann muss ich etwas vorher;  definitiv wissen weil ja dann die klausurthemen ein paar wochen vorher gestellt werden; aber das entfällt ja.",advance,0
+"wenn überhaupt, dann (...) am rand; und das thesenpapier;  sollte,  pro thema so etwa drei seiten;  als größen-ordnung haben,",advance,0
+"ich ich muss ja hauptsächlich aufpassen wenn keine überschneidungen sind mit der germanistik, und mit der romanistik; und anglistik; aber das ist jetzt ja;",advance,0
+in ordnung. wunderbar. dann mach ich mich jetz schön ran und werde möglichst bald diese thesenpapiere dann.,advance,0
+die nebenfachprüfungen die sind manchmal schneller fertig als man merkt dass sie angefangen haben.,advance,1
+"nein;
+ich würde Sie ja nich gezielt über hayden white ausfragen; und selbst wenn Ihnen dann mal m das sinnvoll erscheinen, mit einem hinweis auf solche theorien der geschichtsschreibung zu antworten das ist keine schwierigkeit;",advance,0
+"zu den labyrinthen, gibt es auch einen ordner; mit vorlesungs(sachen) also ich hab das bei den lehrveranstaltungen noch versucht, irgendwie dann so ein bisschen handlich aufzuarbeiten, das is nicht verpflichtend; aber gucken Se mal.",advance,0
+"sagen Sie zur information noch mal eben
+das das thema. worum gehts?",advance,1
+"da hatte ich auch bei herrn meier schon eine hausarbeit abgegeben zu dem thema, und das zweite thema wären halt entwicklungstheorien.",advance,0
+"ich bin also noch nich dazu gekommen, das zweite thema richtig vorzubereiten;
+das liegt au daran dass ich noch einiges für die anderen bereiche machen musste,",advance,1
+"dann brauch ich noch eine unterschrift von Ihnen, und zwar is das hier die prü-fungsanmeldung, damit bestätigen Sie mir dass wie das abgesprochen haben;
+in der dritten zeile unten.",advance,0
+"was machen Sie als schriftliche arbeit, im rahmen dieser be a prüfung und worüber schreiben sie da?",advance,0
+"das sind auch so fünfundzwanzig bis dreißig seiten, die werd ich im fach ge-schichte schreiben,
+ 
+ ",advance,0
+"ich hab mir das thema noch nicht rausgesucht; also entweder über die entdeckung amerikas, halt mit dem niederschlagung des aztekenrei-ches, oder über direkte demokratie in den u es a deren entwicklung das is ein verein; wo ich auch aktiv bin.",advance,0
+da sind sechs wochen vorgesehen; ich werde natürlich vorher anfangen schon mal literatur zu suchen.,advance,1
+Sie wollen das überziehen; Sie glauben; dass Sie mit den sechs wochen nicht aus-kommen; oder?,advance,1
+"ja ja; is gut war nur etwas auch gereizt, weil; vor Ihnen jemand  einen halbstundentermin sich hat reservieren lassen; und nicht gekommen is, ohne das abzusagen.",advance,0
+"ja; ich war schon ma bei Ihnen, wegen meiner be a prüfung und Sie hatten gesagt, ich sollte anfang september noch mal wiederkommen;
+und das habe ich jetzt
+hiermit getan.",advance,0
+"wie war das, jetzt wollen wir über klausur auch sprechen, oder mündliche Prüfung?",advance,1
+"ja; ich hatte mir jetz themen überlegt, weil ich ja in die NEUE prü-fungsordnung wechseln wollte,",advance,1
+"die gabs ja schon immer; bei der be a prüfung; klausur, und mündliche prüfung aber da is jetz etwas anders ja als früher",advance,0
+"
+ja; also für mich ändern sich die anforde-rungen, dass ich jetz statt einem qualifizierten studiennachweis n teilnahmeschein brauche, vorher, und dann wohl  die klausuren wegfallen.",advance,0
+"das is glaub
+ich so, dass das sich dann um eine mündliche prüfung handelt; ich weiß jetz nicht genau wie lange.",advance,0
+ja; das entspricht ja im prinzip der ma-gisternebenfachprüfung; wahrscheinlich is das dann so;,advance,1
+"ja; also ich weiß nicht ob das jetzt zu nah  an der hausarbeit ist, oder?",advance,1
+ja; ich hatte ursprünglich auch schon mal angedacht; über theodor  fontane mich prüfen zu lassen;,advance,1
+"ach, bei herrn gross machen Sie den ich gar nicht persönlich kenne obwohl ich eigentlich ganz neugierig bin; irgendwie verschlafen den termir seiner antrittsvorlesung, haben
+Sie die gehört?",advance,0
+"Sie komm dann noch mal zu: mir, ; was ich brauche, vor der prüfung; ne woche vorher; et-wa; sag ich jetz schon, is ein thesenpapier, für jedes thema sollten Sie etwa sechs stichpunkte vorsehen; das müssen nicht ausformulierte sätze sein, das könn auch einfach nur knappe gliederungsstichpunkte sein;",advance,0
+ich komme wegen des exkursionsberichts; den ich Ihnen abgegeben hatte.,advance,0
+"is auch immer ganz schön, wenn Sie das schon vorbereiten diese eintragungen für andere, also selber eintragen, wann das war, ziel der exkursion war einmal bottrop und oberhausen, ne?",advance,0
+also das geht um das seminar vom lesen und schreiben und da wollt ich einen kleinen schein abholen.,advance,1
+"nein; das war in ordnung; die andern, die waren zum teil n bisschen sehr LANG, manchma is das schön, manchma is dann auch die sitzung gelaufen,
+aber für einen TEILnahmeschein war das völlig in ordnung;",advance,0
+"also ich hatte in erinnerung, dass wir am anfang des seminars auf jeden fall gesagt haben fünf bis zehn minuten, und hab auch versucht, mich dran zu halten, und dann hab ich nachher bemerkt, die anderen haben sich nicht gerade dran gehalten.",advance,0
+"dann gehen wer rüber, und ich sag der frau bauer eben dass sie Ihnen den teilnahmeschein gibt.",advance,0
+"Ich darf euch heute zur Unterrichtsstunde begrüßen.
+Wir haben ja zuletzt über die Prüfung im Sekundarbereich gesprochen.
+Da müssen wir draußen noch entsprechend die Tests durchführen.
+Theoretisch haben wir das soweit abgeschlossen. Heute gehen wir einen Schritt weiter.",advance,0
+"Wer kann mir mal ganz kurz erklären, wie das Hall-Geber-Prinzip funktioniert? ",advance,0
+"Sie können hier vorne auf den Beamer schauen, ich helfe Ihnen, oder Sie können auf Ihr Blatt schauen.
+ ",advance,0
+"Wer kann anfangen? Wir beginnen bei Zündung.
+Was passiert bei Zündung?",advance,0
+"Sie müssen jetzt nicht den ganzen Plan machen, Sie können auch nur einen Teil bearbeiten, damit Sie nicht überfordert sind.",advance,0
+"Wir schauen uns das zuerst einmal hier von der Seite oben an, Herr Fischer, wenn Sie noch einmal weitermachen könnten.
+",advance,1
+"Wer kann ihm hier ein bisschen helfen, was passiert dann?
+ ",advance,1
+"Welche Aufgabe hat diese Diode, D1, wer kann das erklären?
+",advance,1
+"Herr Fischer,
+Sie sind ja ein erfahrener Schaltplantüftler.
+Können Sie hier weitermachen, wie fließt dann der Strom entsprechend, wenn an der Basis T1 Spannung anliegt?",advance,0
+wie würden sie das als fachausdruck bezeichnen herr klump?,advance,0
+dann wünsche ich ihnen viel erfolg und frage sie auch noch in welcher reihenfolge sie geprüft werden möchten,advance,0
+"Ich fange mal mit dem Begriff an, mit der Begriffsbildung.
+Frau Marder hat das Rahmenthema so gestellt.",advance,0
+"kennen Sie die Materialien die da in Soest erarbeitet worden sind, können Sie dazu etwas sagen?",advance,1
+"
+Beim letzten Mal haben wir über die Prüfung der Zündanlage TZH gesprochen, da machen wir auch weiter.
+ ",advance,0
+"Sie brauchen außerdem noch etwas zum Schreiben und ein leeres Blatt – oder  …
+… ein Blatt, um einen Begriff zu ergänzen, können Sie das gerade mal herausholen?",advance,0
+"
+Ich reflektiere noch einmal kurz: Wir haben letztes Mal über die Zündanlage TZH gesprochen und wir haben das abgearbeitet, was wir prüfen müssen können.",advance,0
+"Also, die Vorgabe: die Vorgabe bei uns – das können Sie vielleicht gleich oben auf Ihr Blatt schreiben.
+",advance,0
+"Jetzt kommst du, Jason. Kannst du es noch einmal wiederholen?",advance,0
+"Wenn wir uns jetzt unser Blatt anschauen und die Aufgabenstellung betrachten – passt das alles dazu?
+",advance,1
+"Herr Kleinkopf, Sie sollen ein neues Blatt nehmen und es nicht auf die Rückseite schreiben, weil Sie es sonst ständig umdrehen müssen.  ",advance,0
+"Was passt noch nicht hinein, es gibt noch einen Programmpunkt, der hier unnötig ist.",advance,0
+"Was schreibt man hier? Was würden Sie hier eintragen, Jason?",advance,0
+"Ich möchte nicht, dass Sie das jetzt mitschreiben, sondern ich möchte einfach nur zeigen, wie er vorgegangen ist.
+",advance,0
+"Was stört noch?
+Jetzt kommt aber der Lengefeld – der meldet sich schon die ganze Zeit.",advance,0
+"Marina, bei Ihnen vielleicht – das kann ich jetzt hier ruhig öffentlich sagen, das ist ja kein Geheimnis:
+Ich habe der Gruppe dreizehn Punkte gegeben.",advance,0
+"bei der Präsentation in VWL – nämlich Lara und Vivien – ich fand beide super, das war wirklich gut gelungen.",advance,1
+"Das bringt uns eigentlich auch schon insofern weiter, dass wir bei den beiden Themen kaum noch hinterherhinken müssen.
+ ",advance,0
+"Ja, leider Gottes haben wir natürlich auch wieder einige Fehlkurse, aber die Parallelklasse hat drei Leute weniger und noch einmal drei Fehlkurse mehr, glaube ich –
+oder zwei mehr.",advance,0
+"Zwischen BWL und VWL – ansonsten ist es tatsächlich bei den meisten fast identisch.
+ ",advance,1
+"Wenn nach dem schriftlichen Abitur noch jemand unbedingt meint, er müsse etwas tun,
+bin ich dafür noch offen.",advance,0
+"
+Ihr könnt euch das gerne selbst anschauen,
+wenn jemand noch etwas in Form eines Referats machen möchte, aber bitte nicht erst im April damit kommen.",advance,0
+"Dominik, lesen Sie die Aufgabe bitte einmal vor, damit wir wieder reinkommen und dann schauen wir, dass wir zumindest einen kleinen Teil davon heute noch verbessert bekommen.
+",advance,0
+" 
+Dominik, lies bitte noch einmal die Fragestellung vor – was müssen wir tun?",advance,0
+"Das steht da drin, deshalb möchte ich ja jeweils darauf eingehen.
+, § 150 Absatz 3.
+So.
+Udo, lesen Sie bitte einmal § 150 vor.",advance,0
+"Für mich ist jetzt erst einmal entscheidend, die Aufgaben durchzukorrigieren, es gibt hier auch – für die Gesetze – in der Regel gebe ich da nur einen halben Punkt.",advance,0
+"Jetzt markiere ich mir die Aufgabe und weiß am Schluss:
+Wenn ich noch Puffer habe, dann gehe ich sie an.",advance,0
+"Conny, Sie haben es ja eben eigentlich schon beantwortet:
+Wie berechnet sich das gezeichnete Kapital?",advance,0
+"Dann würde ich jetzt gerne mal jemanden bitten, so die WICHtigsten Sachen, die ihr jetzt gesagt habt aus allen Gruppen zusammenzufassen, was wurde jetzt oft gesagt, was für eigentlich alle bedeutend ist, was Vielfalt ist und wie man das Zusammenleben schafft.",advance,0
+"Kann man auch einfach ne Mind-Map machen, wenn man nicht zeichnen will?",advance,0
+"wäre das möglich, dass ihr auch zuhört, weil wir das nachher noch mit dem vergleichen wollen, was ihr gesagt habt, dankeschön. ",advance,0
+" also wir haben die Frage: Ist Zuhause da, wo du herkommt oder da, wo du gerade bist",advance,1
+Ich wollte das auch sagen. In den sechzigern wurden Affen ins Weltall geschickt. ,advance,0
+"Ja, also ich hab vielleicht,  dass die Menschen ihn auf den Mond gebracht haben für irgendwelche Tests.",advance,0
+" Ich versteh nicht ganz, wie er sich selbst abgeschoben hat.",advance,0
+"Weil mit dem IST,denke ich da kann man ein bisschen diskutieren, was da alles vogefallen ist in letzter Zeit, ja?  ",advance,0
+Was mir vielleicht noch als Ergänzung einfallen würde wäre vielleicht dass gefällt ihm oder macht ihm Spaß.,advance,1
+"Vielen Dank. könnt Ihr jetzt mal überlegen, wo da Gemeinsamkeiten oder Unterschiede aufgetreten sind in euren Definitionen. ",advance,0
+"Wir würden uns auch allem anschließen außer dem Punkt: was ist, wenn man umzieht.",advance,0
+"Könnt Ihr euch in die situation dieses Pavians hineinversetzen, wie es dem da oben geht.  ",advance,0
+"AHA, dass sind jetzt wieder Menschen, die du mitnehmen würdest, ja, ihr habt sehr viel mit Familie, mit Freunden, mit Menschen erarbeitet",advance,0
+"Gibt es was, dass Ihr mitnehmen würdet? […] Sagt jetzt nicht: ne, ne.",advance,0
+" Versucht mal zu überlegen, was es für euch gibt, wo Ihr euch dabei wohlfühlt, was Ihr nicht vermissen wolltet. ",advance,0
+"Also wer würde dort alles leben ist wieder eine persönliche Frage muss jeder für sich selbst beantworten- Aber im großen und allgemeinen würe ich sagen die Personen, die einem nahe stehen, was bedeuten so, in die Richtung und was macht das Zuhause zu einem Ort und nicht nur zu einem. ",advance,0
+" Was macht es zu einem Zuhause und nicht zu einem Ort, wo du gerade schläfst?",advance,0
+ich finde Ihre Gedanken da auch schon ganz nachvollziehbar ich würde Sie ganz gerne jetzt in eine kleine Gruppendiskussion schicken,advance,0
+"Also ich finde nicht, dass man direkt sagen kann der gehört da nicht hin, weil in gewisser Weise hat der ja schon seine Aufgabe, sag ich mal.",advance,0
+"Der gehört da halt nicht hin und das merkt man halt einfach so daran, wie er sich benimmt und da hab ich halt das gleiche Gefühl.",advance,0
+Würde denn jemand auch in diese Deutungsrichtung tendieren und so etwas in dem Film sehen? ,advance,1
+"ich glaube, dass man das garnicht so bildlich nehmen sollte vielleicht, sondern es vielleicht einfach darum geht, ja quasi, ausgeschlossen wurde oder dafür auserwählt wurde, da dieses Licht anzumachen.",advance,0
+"Wie kommen Sie darauf, dass er Heimweh hat?",advance,1
+"Können sie Ihre Aussagen noch unterstützen, indem Sie uns sagen, wie Sie darauf kommen, dass er traurig ist, so wie Sie das auch gemacht haben mit seiner Herkunft, dass er aus dem Mali kommt.",advance,0
+"Es wär schön, wenn ihr DAS jetzt erst mal aushandelt und euch auf eine Definition einigt.",advance,0
+"Einige haben mal aufgeschrieben wie ihr versuchen sollt miteinander zu sprechen, um mal zu gucken was sagt der Andere. ",advance,0
+"ich habe nochmal Fragen aufgestellt, das ist genau das was S. gesagt hat: Reicht es einfach oder ist das dann schon automatisch mein Zuhause oder brauch ein Zuhause MEHR als ein HAUS",advance,1
+"Ja, das sind jetzt höchste Fragen an den Film die wir so nicht beantworten können.",advance,1
+Jetzt redet ihr schon untereinander. Was habt ihr gesehen? Um was geht es wohl?,advance,1
+"Ich bin mir unsicher wo das schon erwähnt wurde, wollt  sagen Zuhause ist halt, da wo man sich austauschen kann, so schlimmes durchmacht, so.",advance,0
+"Gut, hab ihr untereinander euch ausgetauscht?",advance,1
+"Den Gedanken würde ich gerne aufgreifen von S1, das wir wertschätzen sollen  was wir haben.",advance,0
+"Ja wir hatten auch noch aufgeschrieben, das es ist, das es nicht selbstverständlich is Freunde oder einfach Leute zu haben mit den man sich einfach austauschen kann oder die für einen da sind.",advance,0
+Lies nochmal nach was Du gesagt hast.,advance,1
+"ich denke auch, dass er sich irgendwie nach der Erde sehnt und einfach neugierig ist was das ist.",advance,0
+"Ja…. Greifen wir gleich nochmal auf, das mit dem normalen Alltag.",advance,0
+"Genau, was bedeutet Unterhaltung?  ",advance,1
+"Darauf könnt ihr reagieren, eure Version erzählen, S6 nimmt dran!",advance,0
+"Okay,jetzt könnt ihr eure Überlegungen fortsetzten erstmal bevor wir uns mal alle zusammen austauschen darüber. ",advance,0
+Ich war schon mal vor langer Zeit bei ihnen.,advance,1
+also ich hab jetz noch eine diplomPRÜfung,advance,1
+"das war damals im seminar was ich bei ihnen belegt habe sprache der werbung.
+",advance,0
+"und jetz kommt es ein bisschen drauf an-
+welche themen sie geprüft werden wollen
+",advance,1
+dann würden herr müller und ich zusammen prüfen-wenn sie sagen sie wollen die fachsprachen und die werbesprachen machen.,advance,0
+ansonsten ähnlich ist es im wintersemester auch.,advance,1
+"wie organisieren sie die themenabsprache jetzt nur für IHren bereich werbesprache?
+",advance,0
+"damals haben sie ja hauptsächlich mit diesem 
+buch gearbeitet ne?",advance,1
+vielleicht bietet sich ja auch das hausarbeitsthema an,advance,1
+das war damals ja diese gruppenarbeit wo ich mich ausgeklinkt hatte.,advance,0
+"Das musst du nochmal sagen, ich hab dich nicht verstanden, S5.",non_advance,0
+Und welche Meinung werdet ihr darein schreiben? Wessen Meinung werdet ihr rein schreiben? S6.,non_advance,0
+"Hm. Könnt ihr euch noch dran erinnern, was ihr so als Aussage in eurer Gruppe zu diesem Film so zusammengefasst habt? Was ihr da sozusagen, in dem Kreis, im inneren Kreis, was ihr da {reinge} habt. Wer erinnert sich noch?",non_advance,0
+"Hm. Habt ihr aufeinander euch bezogen, also habt ihr zueinander, übereinander {geschrieben} und [geantwortet]?  ",non_advance,1
+Welche Dinge zeigen Anderssein? Und was verändert sich im Laufe der Geschichte? WELCHE Dinge zeigen Anderssein? Hat jemand schon eine Idee?,non_advance,1
+"Da jetzt an dem, in dem Film.  ",non_advance,0
+"Ja, die eine Maus mag boxen und die andere tänzt Ballett. Tennis Ballett? TANZT Ballett. Achso tanzt Ballett. Ja genau. ",non_advance,0
+"Welche kleine Maus denn? Das Baby? Das Baby oder die, die Ballett tanzt?",non_advance,0
+Wir haben noch eine Frage. Was hat denn jetzt die Geschichte mit Anderssein zu tun? Ihr habt es eben schon etwas probiert. Was hat die Geschichte mit Anderssein zu tun?,non_advance,1
+"Wir sollen halt, wir sollen halt selbst einen Comic erstellen, das so ähnlich ist wie ein Film, wie dieser Film da, glaub ich.",non_advance,0
+Genau was soll der denn auf jeden Fall darstellen? Was soll dieser Comic darstellen? S3.,non_advance,1
+"Also eigentlich war jetzt die Frage nach den vielen Unterschieden, und du hast jetzt die, du hast jetzt was gefunden, was die Bilder doch miteinander verbindet ein bisschen.  ",non_advance,0
+Warum ist warum ist denn der glücklich?,non_advance,1
+"Mhm. Gut. Und wie hat die, warte ihr seid gleich Sekunde. Ja genau. Wie hat das denn geklappt?",non_advance,0
+Achso also die letzten sieben Minuten oder was?  ,non_advance,1
+Bekommt jeder ein Blatt oder was? ,non_advance,1
+"Ich glaub, da gibt es alles und jeder wird da toleriert, oder?",non_advance,0
+Nimmst du bitte den- die nächste Person dran?,non_advance,1
+"Was ist damit gemeint, was meint ihr damit?",non_advance,1
+"Okay. Dann, ihr Lieben, bedanke ich mich für euch, , bei euch und dann sehen wir uns nächste Woche und dann noch einen schönen TAG.",non_advance,0
+"Kann ich das so zusammenfassen?  Okay, gibt‘s da war das alles?",non_advance,1
+"Woran hast du, oder woran habt ihr das erkannt? Also diese Taten, die man vielleicht rückgängig machen möchte?",non_advance,1
+"JA, in dessen, diesen ersten Fragestellungen? Seht ihr genauso?  ",non_advance,0
+Aber in BWL schreiben wir die erste am 18.02 also heute in zwei Wochen,non_advance,0
+"Ich fände es ganz gut, entweder am Donnerstagnachmittag. Allerdings geht das Nur in einer Siebten, also bei A- oder B-Woche",non_advance,0
+"Wie lange habt ihr bis 15:10 Uhr Unterricht, oder wie?",non_advance,1
+Also nehmt bitte das PBO-Buch heraus. Das Buch – euer BWL-Buch – und vor allem Auch das Arbeitsblatt: vertikale und horizontale Bilanzkennzahlen,non_advance,0
+"Das wusste ich schon gestern. Was, ihr wusstet das schon? Ach so, von Frau Bauer.
+",non_advance,0
+"Also, die ersten zwei sind vertikal, oder? – Bitte? – Die ersten zwei sind vertikal.",non_advance,0
+Und was ist mit dem dritten? – Was ist mit dem Verschuldungsgrad? Was wird da ins Verhältnis gesetzt?,non_advance,0
+"Ja, wie viel ... –Vom Eigenkapital zum prozentualen Anteil vom Fremdkapital, oder?",non_advance,1
+"Wenn ich nach der Rechnung gehe, weil sonst komme ich nicht auf meine 56 Prozent. Was heißt ""nach der Rechnung""? Bitte verständlich erklären.
+",non_advance,0
+"Wenn ich nach der Rechnung gehe, ja.
+Bitte?
+Wenn ich nach der Rechnung gehe, weil sonst komme ich nicht auf meine 56 Prozent.
+",non_advance,0
+"Bitte schlagen Sie auf Seite 238 Und zwar lasst uns bitte anschauen Seit 1949 als ein souveräner Staat Souverän heißt Er herrscht über Sich
+
+",non_advance,0
+"Ich ich möchte zuerst mal die Frage stellen was heißt Überhaupt Intonation, was kann man darunter verstehen  und welchen ZugangWählen Sie dann  also wa was versteht man unter Intonation, das als erstes
+",non_advance,0
+"sie meinen  öhm  er lässt sie nit ausreden
+",non_advance,1
+ich geh davon aus sie meinen damit nit nur berufliche interesse oder [s]ie meinen (damit) wahrscheinlich auch private interesse,non_advance,0
+"Wie heißt denn das , kann jemand helfen hier",non_advance,0
+"hier haben wir ja die einheit hallgeber magnetschranke des ist ja auch eine integrierte schaltung das heißt
+ über den halleffekt den sie ja beim herr sauer hoffentlich besprochen haben
+",non_advance,0
+"könnt man sagen des ich auch noch  ein messstand das heißt ein mess  widerstand
+",non_advance,1
+"
+die drei ( die ringparabel  das heißt  der vater entspricht eben auf der  bedeutungsebene etwas anderem
+ 
+
+
+",non_advance,0
+"
+am achtzehnten zwoten also sprich heute in drei wochen
+",non_advance,1
+also was meinst du   du deutest jetzt ne wie er sich wahrscheinlich verhält,non_advance,1
+was meinst du jetzt am anfang die bewegung oder jetzt?,non_advance,1
+ich meine es hat ja den gewinn mindern sollen im am im alten jahr noch,non_advance,0
+griesgram was meinten se damit?,non_advance,1
+das hätt ich noch gern ein bisschen genauer  was is damit gemeint  mit der kurzen handlung,non_advance,1
+ja aber das is jetz dann klar oder?,non_advance,1
+weil ich kann mir das im endeffekt ja aussuchen; was ich belegen möchte. wenn ich das hier so sehe richtig?,non_advance,1
+"das also, das darf man auch ja?",non_advance,1
+"gar nichts zu tun, weil die interessiern sich gar nich für das ammonium; die heterotrophen; ja?",non_advance,1
+"so. deshalb möchte euch jetz erstmal, bevor wir da weiterre-den, die rohdaten haben, und möchte dass Sie das;  erst einmal so auftragen; dass Sie;  ne SUMmenkurve haben;
+ja?",non_advance,0
+"das war Ihr grundfehler; Ihr denkfehler;
+aufsummieren ja?",non_advance,0
+"DORT werden eben diese zeit genössisch miliTÄRgeschichtlichen kontexte;  ; auch aufgelistet, und  diskutiert, ich mein da werden Sie sicherlich anregungen FINden;",non_advance,0
+"ja also; Sie SOLLten  zumindest, sollte sie einen INhaltsverzeichnis haben, ja?",non_advance,0
+"wenn Sie DAS jetzt noch ein bisschen hätten umsetzen können, dann wärs eine sehr gute arbeit geworden;  ist das in ordnung?",non_advance,1
+"also mit der
+bildzeitung könn Se nich die new york times vergleichen; ja?",non_advance,1
+"eins zwei, drei vier; okay; steht ja auch im vorlesungsverzeichnis. ne?",non_advance,0
+"Sie haben wahrscheinlich einfach nur das aufgetragen, was Sie ; als ammoniumergebnisse der jeweiligen wochen bekommen hatten richtig?",non_advance,1
+denn das is ja jetz wichtig für Ihrn gliederungspunkt; dass Sie genau sagen; so; über wen sprech ich jetz ne?,non_advance,1
+Sagen Sie mir Ihren Namen nochmal,non_advance,1
+"sagen Sie zur information noch mal eben
+das das thema. worum gehts?",non_advance,1
+"ja haben Sie selber gesehen, nicht?",non_advance,1
+"das heißt also dass ich zum beispiel beim projektseminar, vielleicht ein seminar belegen sollte,bei jemanden der nachher auch die prüfung;
+ machen wird; oder nicht?",non_advance,0
+"Ja, das heißt also ich brauche an den Seminaren nicht extra teilnehmen.",non_advance,1
+Das heißt also Sie machen jetzt Zwischenprüfung?,non_advance,1
+"und dann: geb ich Ihnen auch ne harte zeitvorgabe. wieder ne Woche okay?
+also das wochenende geht drauf.",non_advance,1
+verbleiben wer so. dann seh ich Sie nächste woche dienstag; beziehungsweise ich lie/ ; hab das im fach liegen okay?,non_advance,1
+"ich komm, weil ich wohl etwas das thema meiner hausarbeit etwas verfehlt habe, beziehungsweise es nich richtig fokussiert",non_advance,1
+"dann in der ausführung;  wird es eben so, dass, dass nun ja; dass die halt :; sich nich SO: schlüssig auf die einzelnen punkte beziehen, beziehungsweise dass da so sprünge dann drin sind.",non_advance,0
+"und ich wollte halt die geschichte, hayden white machen. ja, jetz is das natürlich irgendwie dann; das; ja das is dann nich so streng oder?",non_advance,0
+"ER hatte mich dann zu UNserm prüfungsamt verwiesen, weil wohl nich bekannt is was für einen schein ich abllegen muss, beziehungsweise was für eine prüfung;",non_advance,1
+da is irgend n textstück offenbar verLOren gegangen. denn Sie fangen an mit dem häufigkeits/ beziehungsweise deckungs-werten er plus eins.,non_advance,0
+"hatten wir eben halt ; mussten wir berichte abgeben, und wir hatten vier berichte geschrieben, also beziehungsweise;  einen bericht hatten wir zusammen geschrieben",non_advance,1
+"also künstliche menschen hatten wir schon gesagt, ne?",non_advance,1
+"ja dieses und wann haben Sie den aufgegabelt, diesen zettel?",non_advance,0
+"ja klar; ich meine das is ja gar kein problem, ich  setze ja keine deadlines; also keine termine für die abgabe;",non_advance,1
+und in der sekundärliteratur gibt es eigentlich vor allen dingen nur die arbeit von dem wolf kittler; also dem bruder von dem berühmteren kittler,non_advance,0
+"eigentlich das bei mir das der größte teil dann sein würde, wäre ; also, die penthesilea im kontrast zu den neoklassizistischen,  klassischen; sollt ich eher sagen tragödien.",non_advance,0
+Also meinen Sie ich sollte das lieber weglassen?,non_advance,1
+"was ich jetz auch noch fragen wollte, themaisch, also wenn innerhalb des themas es zu thematischen überschneidungen kommen kann; ja,; is das dann schwer, also jetzt zwischen den fächern;",non_advance,0
+"da handelt es sich nich um Boden, sondern um die HUmusauflage; (also die organische auflage, im vergleich zum mineralischen boden.",non_advance,1
+"und dann immer gleich aufsummiern; ne, das heißt also; das könn wer ja mal kurz überschlagen.",non_advance,0
+"und hier sieht man schon ganz gut,
+ammonium,  in den plateaulagen, also das wär ja dann einmal diese kurve und diese kurve reichert sich zwar ein bisschen an.",non_advance,0
+"da machen Sie eben bei dem
+ proseminar; ne, das heißt hier thema mit naturökologischer fragestellung; das is dieser ganze bereich der ressourcen-ökonomie ja?",non_advance,1
+"Das ist unsere, sind unsere anforderungen an das nebenfach wirtschaftsgeographie.",non_advance,0
+"sehen Sie denn da überhaupt keine möglichkeiten; dass Sie da mit solchen mit solcher initiative da gibt es in der ressourcenökonomie, gibt es ganz bestimmte fragestellungen und DIE möchte ich HIER bearbeiten, aus dem grunde weil ich: mich als wirtsch als ökonomin, zu zukünftige ökonomin dafür ganz besonders kompetent fühle;",non_advance,0
+Ich habe es gehört diese normale Vorlesung beziehungsweise Vorlesung,non_advance,1
+"und dann, kann es natürlich sein; dass ammonium, durch minerali  weitere mi-neralisation, also stickstoffmineralisation, umgesetzt wird, zu nitrat.",non_advance,0
+"wir hatten am anfang darüber gesprochen dass man solche arbeitsplätze ganz gezielt auswählt  dass man
+sich um ein gutes lernklima kümmern muss im betrieb dass ma sich darum kümmert oder ständig im auge hat.",non_advance,0
+ ich hab dann eher überwachungsfunktion beziehungsweise ich leite die in eine bestimmte richtung.,non_advance,1
+"intell[ige]nzquotient  intelligenzkonent
+der is fachlich
+gut, ja hoher i ku der is fachlich top ne",non_advance,0
+"das zählt auch zur fachkompetenz mit dazu, ne also zum beruflichen wissen",non_advance,1
+"Sie meinen er lässt Sie nie ausreden, er hört nicht zu und lässt Sie nicht ausreden?",non_advance,0
+"er spricht entweder zwischerein
+so hab ich das jetzt verstanden eben ja?",non_advance,1
+Was meinten Sie damit?,non_advance,1
+labert die ganze zeit oder?,non_advance,1
+sie würden also behauptendessen sozialkompetenz war nicht so stark ausgeprägt oder?,non_advance,1
+kann eigentlich auch als zu mobbing zählen,non_advance,1
+"ich gehe davon aus sie meinen damit nicht nur berufliche interesse oder?
+",non_advance,1
+"kompromissbereitschaft das heißt er hört sich auch mal was anderes an
+",non_advance,1
+ich habe zwei thesen beziehungsweise gliederungspapiere mitgebracht.,non_advance,1
+können sie die frage noch mal wiederholen bitte?,non_advance,1
+ gehört es ja auch immer sich dazu sich zum beispiel in andere personen hineinversetzen zu können  explizit eben bei bei literarischen texten in die figuren hineinversetzen zu können das heißt  sich mit ihren mit ihnen zu indi zu identifizieren,non_advance,0
+"ja; und das is Ihre wahl ich meine, Sie haben sich ja so ausgesucht",non_advance,1
+"nee, das hab ich nicht gesagt. ich hab gesagt, Sie haben mich ja gefragt soll ich die fragen. und ich hab gesagt ich hab gesagt, Sie sollen die fragen. ja, weil das wird von fall zu fall auch unterschiedlich gehandhabt.",non_advance,0
+" dass Sie sich da noch mal hinset-zen, auch wiederum mit zeitvorgabe, also dass wir jetz sagen ich geb Ihnen ne woche zeit, und dann arbeiten Sie mir den text  entsprechend so um, dass ich eine akzeptable und vernünftige hausarbeit in der hand habe.",non_advance,0
+"jetzt kommt wieder diese höflich| da kommt wieder dieses höflichkeitsmoment da
+",non_advance,0
+und dabei hat man dann nicht  diese sprachlichen beziehungsweise dichterischen mittel im auge sondern versucht wirklich da eine parallele herauszufinden,non_advance,1
+ und waren nicht schollengebunden waren also nicht an einen hof gebunden da.,non_advance,0
+damit vertritt der vater also sozusagen synchron die ganze gesellschaft das heißt der vater repräsentiert tatsächlich die gesellschaft,non_advance,0
+und was was würden sie mir da empfehlen als  literatur vielleicht noch ich meine ) ich weiß ja nich wie sie jetzt wie sie sich die prüfung vorstellen ob  ch da genau in dem einen gebiet gefragt werde|in dem teilgebiet oder,non_advance,1
+"und im nebenfach|fällt  dann wahrscheinlich eines der beiden regionalen  weg also das heißt entweder die  erdteil ein erdteil oder die  europäische teilgebiete
+",non_advance,1
+oevermann der ist aber recht aufschlußreich für seine forschung ne?,non_advance,0
+"und dann halt die auswirkungen  also das heißt die konsequenz die aus diesen darstellungen gezogen worden ist  ja die kompensatorische erziehung und ja dann ein bißchen kritik.
+",non_advance,0
+ dann  gibts noch einen aufsatz in dem wörterbuch der kritischen erziehung zur chancengleichheit der also diese ganze kompensatorische erziehung mal prinzipiell in frage stellt beziehungsweise| die frage aufwirft wozu überhaupt kompensatorische erziehung  und wem nützt sie und wozu dient sie ne.,non_advance,0
+ja ich mein die programmpunkte das heißt die forderungen die aufgestellt werden mit der kompensatorischen erziehung,non_advance,1
+"Ich habe die Thesenpapiere noch einmal für alle mitgebracht.
+Wir sind ausgerüstet.
+Wie bitte?
+Ja. Wir sind ausgerustet.",non_advance,0
+"ja ich habe es jetzt trotzdem für alle also ich habe es sozusagen von allem alles mitgebracht.
+",non_advance,1
+ können sie gleich die reihenfolge  dann können wir uns [darauf] einstellen können sie dann gleich sagen wie es weitergeht,non_advance,1
+"sagen sie uns zunächst einmal etwas darüber wie man sich die mar  entstehung der marien dichtung erklärt und wann man wann ungefähr man mariendichtung antrifft
+",non_advance,0
+" ja; ich hab jetz nur die sachen, die ich damals auch aus dem seminarordner hatte. diese ganzen möglichen von katja so und so riedel; riedler oder so,   riefler;
+und ja; die ganzen sachen habe ich halt.
+",non_advance,1
+"ja; und die formulierung des themas, ins: unreine gesprochen, wäre dann analyse:, ; (2) der startseiten, verschiedener boulevardzeitschriften; also vergleichende analyse;",non_advance,0
+"ich wollte sowieso letzte woch  nächste woche noch mal reinkommen, wegen eines thesenpapiers;",non_advance,0
+"RICHtig.
+wo Sie dann einfach die bücher auflisten; also die themen auflisten; die bücher, und vielleicht stichpunktartig ein paar schwerpunkte; die da sich aus der lektüre ergeben. genau.",non_advance,0
+"also hierzu jetzt ne
+genau. also zur münd-
+lichen prüfung. genau machen wir das so",non_advance,1
+"na schön; haben Se gleich material, eigenmaterial.
+als prüfungsthema sogar;",non_advance,1
+"gut soll ich Ihnen da auch eine einen aufsatz den aufsatz hier mit kopieren, oder;",non_advance,1
+"also wenn Sie n mit dazunehmen könnten  haben wir eine einstündige prüfung; oder;
+einstündich.
+",non_advance,0
+ich hab da noch nichts zu also ich hab mich mit den büchern halt ausnandergesetzt; vor allen dingen mit dem zweiten aber man muss ja auch gucken wie das aufgenommen worden ist,non_advance,0
+"Jetzt schauen wir uns mal diese Anlage an.
+Ich denke, Sie kennen diese Anlage.
+Sie kennen diese Anlage hier – das Schaltbild.",non_advance,0
+"Woher, Ich frage nur, ob er das schon einmal gesehen hat.
+Woher kennt er das?",non_advance,0
+"Beginnen Sie doch einfach mal bei „Zündung ein“. Wir fangen vorne an – ganz einfach.
+Sie haben das jetzt von hinten aufgezäumt.
+Vielleicht können wir das Ganze mal von vorne machen",non_advance,0
+"Gut, seid ihr damit einverstanden?
+Seid ihr bisher mit seinen Ausführungen einverstanden?",non_advance,0
+dar darst darstellt und damit auch erinnerung gedächtnis in beschon in bestimmter weise darstellt] vielleicht gehen wir mal von fi von der von der dargestellten wirklichkeit dieser welt aus dass man sagen erst mal ganz naiv sagt,non_advance,1
+m prinzip is das jetz richtig aber wir können ws doch wohl etwas präzisieren [verfeinern]  bei mer b bei mer bei bei  bei dem ersten was sie genannt haben °h bei dem rein °hh erzähltechnischen °hh   also,non_advance,0
+wie s wie wird sie vermittelt  dies[er akt der erinner]ung an diesem einen tag   im september neunzehnhundertachtnfünfzig ,non_advance,0
+"Was passt denn nicht zu unserer Aufgabenstellung?
+Was passt von diesen Punkten nicht zu unserer Aufgabenstellung?",non_advance,0
+"Los geht’s!
+Was stört euch an der Sch an der Bemerkung hier?",non_advance,1
+"Bei Ihnen, Marina, war es, glaube ich, fast die Rettung – was den Fehlkurs betrifft.
+Das heißt, bei Ihnen sind es dann …
+sechs …
+insgesamt – nee, Moment –
+doch, sechs Punkte insgesamt.",non_advance,0
+"Ohne das Referat wäre es eng geworden – das hätte zwar, glaube ich, noch knapp für die Fünf gereicht,
+aber …
+das sind dann nur die …
+das sind dann die sechs geworden.",non_advance,0
+"Ihr habt ja jetzt eure Gesamtpunktzahl auf dem Blatt stehen,
+und ihr kennt bestimmt auch den Notenschlüssel, oder?
+Das ist ja immer dasselbe – in allen Feldern ah Fächern lernfeldern des gleiche",non_advance,0
+"dann könnt ihr ja wirklich so vorgehen ja dass_er
+dass_er euch selbscht mit  mit_ner art checkliste überprüft
+des heißt ihr geht  aus allen einundzwanzig überschriften geht_er die punkte durch vergleich 
+",non_advance,0
+"Wie sieht es denn aus mit der gesetzlichen Rücklage? Wie ist die gesetzliche Regelung?
+",non_advance,0
+der yilmaz sagt jetzt scho er hat ewig gesucht  er hat ja au er ist ja au fertig geworden  aber,non_advance,1
+"  wir wollen SELBER einen Leporello erstellen, so n Faltbuch, da brauchen wir ein bisschen mehr Zeit, weil's mit Scheren und so was ja ausgeschnitten werden muss.  ",non_advance,0
+"Also], wir, wir stellen [uns jetzt] [Jeder] stellt seine eigene dar und dann können wir gucken, wie vielfältig jeder ist, wie jeder un- [unterschiedlich",non_advance,0
+"Die Gruppe 1 darf beginnen und der Rest darf bitte ergänzen, ihr dürft auch wieder untereinander Anmerkungen haben, diskutieren.",non_advance,0
+Bei der ersten Frage haben wir {halt dann die} [...] die Herkunft {einfach} bzw. auch.. Bei der ersten Frage haben wir jetzt einfach erst mal die Herkunft.,non_advance,0
+" Würd ich bitte, , würd ich bitten, mit dem Tisch anzufangen, und den anderen mitzuteilen, was eure ERGEBnisse sind. ",non_advance,0
+ Haben wir noch ne Frage? (S5 and S6) Nein. Das waren alle. Das waren alle. ,non_advance,0
+"Vorne, also bei der Vorderseite, hier (shows the cover and the back of the leporello sleeve) und da hinten ist ein Schreiber, also jemand der schreibt.",non_advance,0
+"Ich glaub, ich bin der Meinung, dass das eine Stadt ist [...] in der jeder toleriert wird- wie heißt das? Toleriert? Ja, ne?",non_advance,0
+" Also ich fasse eure Sprachlosigkeit mal so zusammen, dass es für euch SO offensichtlich ist, dass die Vielfalt des Menschen einfach DA ist und ihr das für euch so AKZEPTIERT? Dass ihr das gar nicht in Frage stellt? Ja?",non_advance,0
+" Also ich fasse eure Sprachlosigkeit mal so zusammen, dass es für euch SO offensichtlich ist, dass die Vielfalt des Menschen einfach DA ist und ihr das für euch so AKZEPTIERT? Dass ihr das gar nicht in Frage stellt? Ja?",non_advance,0
+Würdet ihr das so unterschreiben? Stimmt das so? ,non_advance,1
+"Also wir werden unser Leporello oder wie das heißt so gestalten, dass wir am Anfang ein Bild de- der Gemeinsamkeit haben, also die Gemeinsamkeiten, die wir alle haben,",non_advance,0
+"[Ja, aber,] können da die anderen vielleicht mal darauf reagieren, was mit ernst nehmen, könnt ihr das ergänzen, könnt ihr das, , so formulieren, dass es vielleicht, , S2?",non_advance,0
+"So, jetzt haben wir hier 26 unterschiedliche Menschen, was heisst hier vielfältig, konkret? S27. Ja, aber was heisst das für euch konkret?",non_advance,0
+"Wer kann und denn ganz kurz sagen, welche Verabredungen wir hier für den Kreis getroffen haben. Wie wollen wir das hier im Kreis machen?",non_advance,0
+Okay. Also wir respektieren uns gegenseitig. {Ganz schön} kompliziert. Was wollten wir noch? Was haben wir uns noch vorgenommen? ,non_advance,0
+"WIE könnte man jetzt die Idee weiterdenken? Denk mal weiter, was passiert dann",non_advance,0
+"Was heisst das, reflektieren? S11, guten Morgen! Was heisst reflektieren? Machen wir jede {Tab} Stunde. Was bedeutet das? Wenn wir reflektieren und nochmal über den tag sprechen, was bedeutet das ? S18, was machen wir dann? Wenn wir den Tag darüber reflektieren, am Ende?",non_advance,0
+"Genau, meinst du, dass wir die Begriffe zurück spiegeln sollen. An so nen Begriff nen Spiegel halten sollen und gucken sollen, was passiert?",non_advance,0
+"Man hat sich selber mal überlegt, was heisst das eigentlich: Zuhause? Was heisst das [eigentlich Zuhause?].",non_advance,0
+"Kann man so stehen lassen, aber man könnte auch überlegen, was ist denn Zuhause überhaupt? Darüber wollen wir heute nachdenken! Zuhause? Darüber denken wir heute nach. […] Was bedeutet das eigentlich: Zuhause? Was bedeutet das für dich: Zuhause? ",non_advance,0
+"Hast du noch spontan eine andere Idee, was für dich Zuhause bedeutet? Was bedeutet Zuhause für dich, S30. Hast du ne Idee?",non_advance,0
+", Zuause, , . JA! Es ist lang. Es ist was? Also ein Haus ist {breit}.",non_advance,0
+"Also ein Haus ist {breit}. GROß, meinst du? Ein Zuhause muss groß sein?",non_advance,0
+"OKAY, also etwas, was dir vertraut ist, oder? Was man gut kennt ist das Zuhause? ",non_advance,0
+"Denk mal nach, was ist denn anders zwischen deinem Zuhause und deiner Schule? Was ist denn der Unterschied zwischen Zuhause und Schule zum Beispiel?",non_advance,1
+" Was ist für dich Zuhause? Überleg mal,S26, Was macht euer neues Haus zu einem Zuhause? [...] Warum ist es denn dein Zuhause?",non_advance,0
+"Mama und Papa. Hm, Familie, oder?",non_advance,1
+"Mhm. Vielleicht war das ein Astronaut, der, [der, ]-. [Oder ne Mumie]. Der, der, , festgesteckt. Mondbewohner.
+Ein Mondbewohner?
+Ein Mondmonster. Ein Mondzombie.",non_advance,0
+Wer ist denn unser Planet? Wo sind wir hier?,non_advance,1
+Und wie ist er auf dem Mond gelandet? Wie ist er dahin gekommen? S31.,non_advance,0
+"Was hat er nämlich gemacht? Was hat er gemacht? Was hat er gespielt, als es da saß?",non_advance,1
+"Und wenn du direkt etwas zu dem Kind sagen möchtest, das vor dir etwas gesagt hat, wenn du dich drauf beziehen möchtest, was machst du dann",non_advance,1
+"So, also was haben wir für Informationen in dem Film bekommen? Was wissen wir?",non_advance,1
+WARUM ist der Pavian auf dem Mond? Warum ist er da?,non_advance,1
+" wie heißt es, wie heißt es,  Dschungel, Dschungel, Dschungel. Nein nein, wie heißt es?",non_advance,0
+"Ja aber in diesem Film, warum gehört DIESER Pavian,in DIESEM Film, den wir gesehen haben, der dort sein Haus hat, der dort seine Arbeit hat, warum gehört er nicht auf den Mond? ",non_advance,0
+" Es gibt ein Gruppenergebnis. Das heißt, es gibt pro Gruppe nur ein Arbeitsblatt.",non_advance,0
+"Ihr müsst euch auf eine Antwort einigen, ja? ",non_advance,1
+Was bedeutet Zuhause? Wo fühlst du dich glücklich? Was gehört zu deinem Zuhause? Was bedeutet Zuhause? Wo fühlst du dich glücklich? Was gehört zu deinem Zuhause?,non_advance,0
+Warum sind wir Gruppe zwei? Was? Wieso sind wir Gruppe zwei? ,non_advance,0
+Irgendwie fehlt mir meine Feder (schaut in sein eigenes Etui).  die ist hingefallen. Was? Ja die ist hingefallen.,non_advance,0
+Lass deine Finger von meinen Sachen (nimmt sein Etui weg). Ich hab es dir schon tausend mal gesagt. Du machst das auch immer. Hab ich dir schonmal gesagt. Du machst das auch immer. ,non_advance,0
+"So S1, was würdest du noch sagen? (Liest ab) Was gehört zu deinem Zuhause.  mein Spielzimmer (zu S2). Was? Mein Spielzimmer. ",non_advance,0
+"Hast du schlecht schon aufgeschrieben? Komisch, kannst du nochmal schreiben. Hast du schlecht aufgeschrieben?",non_advance,1
+Was ist das? Was bedeutet Heimat? S5.,non_advance,0
+"Hat jemand zwei Zuhause und warum? S7? Nein. Ich möchte gerne wissen, ob UNTER euch jemand ist, der zwei Zuhause hat? S4.",non_advance,0
+"Tante, Vater,  das wars.
+Du hast ein Zuhause bei deinem Vater und ein Zuhause bei deiner Tante?",non_advance,0
+"Also ich hab bei meiner Mama und bei meinem Papa.
+Du hast ein Zuhause bei Papa und ein Zuhause bei deiner Mama? S14.",non_advance,1
+Gehört er auf den Mond oder gehört er auf die Erde? Und versucht versucht das mal mit Beispielen aus dem Film zu begründen. Woran erkennst du das? Dass er auf den Mond oder dass er auf die Erde gehört?,non_advance,1
+"Also  weil er geweint hat und .
+Oh lauter.
+Weil er in dem Film GEWEINT hat.",non_advance,0
+"Aber vielleicht wenn die, also wenn da eine Seuche oder so ist, dann würden die ja alle ausgestorben sein und nicht zur Erde zurück kommen.",non_advance,0
+"Auf dem Mond. Dann sind ja alle gestorben eher als wieder auf den Mond,  wieder auf die Erde zurück.",non_advance,0
+" Was hatte er noch alles? Was hatte er noch alles auf dem Mond? S16. Er konnte ganz normal leben, aber dann gabs noch mehr. S20.",non_advance,0
+Was war noch wie Zuhause? Was war noch wie Zuhause bei dem Pavian? [.] S20.,non_advance,0
+"Er hat Essen gemacht. Er hat sich in der Küche Kellogs gemacht. Aber der hat kein , kein gar nichts, kein Strom.",non_advance,0
+"Könnt ihr sein Gefühl vielleicht beschreiben? Das Gefühl, das er da hatte, als er auf dem Mond saß, sich die Erde anschaute und seine Trompete spielte. S3.",non_advance,0
+"Er hat den Mond zum Leuchten gebracht. Aber das stimmt gar nicht, dass der gar nicht, dass er gar keinen Strom hatte, weil er hat ja auch Licht angeschaltet",non_advance,0
+"Ein bisschen weitergefasst, wo ist er denn ZUHAUSE? WO IST DER, wo ist der Pavian Zuhause? S7.",non_advance,0
+"So ihr sollt in euren Gruppen jetzt gemeinsam sprechen und zwar, was ist für dich denn ZUHAUSE? Wo, wo gehörst du hin? Und ich habe, psst, ihr sollt in den Gruppen diskutieren, was ist für dich Zuhause? ",non_advance,0
+"Genau. Und kennt ihr das Wort, kennt ihr, wenn man auf dem Mond ist, aber eigentlich gerne auf die Erde möchte? S20.",non_advance,0
+"Beim diskutieren, beim diskutieren denkt daran, bezieht euch aufeinander, nehmt die Meinung des anderen an und auf und stellt dann eure eigene Meinung dar. ",non_advance,0
+"Ja wir haben, wir haben immer [die gleiche Meinung]. [DIE GLEICHE MEINUNG]. Ja wir haben uns auf eine Meinung geeinigt.",non_advance,0
+"Psst [.] Dann berichtet doch bitte mal aus euren Gruppen, was ihr besprochen habt, was da raus kam.",non_advance,0
+"Psst. So dann gehen wir da weiter. Was könnt, möchtet ihr ergänzen?",non_advance,0
+"Und wenn ihr nicht das gleiche hattet, konntet ihr denn dann erklären warum das für dich wichtig ist?
+Konnten die also nachvollziehen?",non_advance,1
+"Weiß nicht, irgendwie.  also ich hab mich, ich hab mich, ich weiß auch nicht. Also wie soll ich das sagen?",non_advance,0
+" Du sollst als Collage darstellen. Collage heißt, du kannst mit Wörtern schreiben, mit Sätzen, du kannst aber auch Bilder malen, du kannst alles miteinander verbinden. ",non_advance,0
+"Also heute habe ich den Eindruck, dass es euch ganz schwer fällt den anderen zuzuhören. Also dass es heute VIELEN Kindern schwerfällt, ich weiß nicht warum",non_advance,0
+"Kannst du nochmal genau erklären, was ist jetzt eure, deine Aufgabe? S7.",non_advance,0
+"Wir haben das ja schon oft in der Klasse haben wir das ja schon oft erlebt, dass es jemandem nicht so gut geht und der hat das dann auch der Klasse mitgeteilt. ",non_advance,0
+"Also so schon wie in der Überschrift steht, der Pavian auf dem Mond, also der wird auf dem Mond sein und will halt auch aufe Erde. ",non_advance,0
+"Also, wir haben den Film auch mal angeguckt und da wollte der ja auch- hatte der , da, , da wollte der, hatte der, die ganze Zeit so auf der, auf DER ERDE  geguckt und ",non_advance,0
+" , ich denke auch, ich schließe mich  eigentlich von den allen dreien auch an und dass der auch seine Familie sucht und eigentlich  garnicht weiss, wo er eiegtnlich herkomm",non_advance,0
+"Du sollst dich - auf dem Papier beantwortest du dann  die Fragen: wie kommt es deiner Meinung nach, dass der Pavian alleine auf dem Mond ist und was ist dem vielleicht passiert, dass er auf dem Mond ist. Ja? Wie ist er auf den Mond daraufgekommen.",non_advance,0
+"Was dann- richitg. S4, wie hast du den Arbeitsauftrag verstanden, was sollst du jetzt gleich machen?",non_advance,0
+"S1, was musst du jetzt auf dem weißen zettel- welche Fragen sollst du beantworten?",non_advance,1
+"WICHTIG ist auch immer,  dass du das, deine Vermutung, dass du das anhand des Filmes begründest",non_advance,0
+" Ist da irgendwas im Film gewesen, wo du sagen kannst: genau an der Stelle hat der PAvian das gemacht und deswegen bin ich der Meinung, dass er da, wie er da alleine auf dem, - dass er alleine auf dem Mond  und da  keine anderen da bei ihm sind oder gibts überhaupt andere?",non_advance,0
+"Hast du noch eine Frage, möchtest du noch eine weitere Erklärung?",non_advance,1
+"We, weil PavION. Nein. PavIAN. Weil das Raumschiff explodiert ist?",non_advance,0
+Dann haben wir noch. Dann haben wir hier noch eine andere Antwort,non_advance,1
+"Also ich, also meine Mienung ist, dass der Pavian zu der Erde gehört, weil er, er ist ja ein Affe und Affen gehören nicht zu dem Mond. , der Pavian gehört auf die Erde.",non_advance,0
+"Wegen ohne Klettern, , was sollen die machen, die haben dann keine große Beschäfti- oder - Beschäftigung. Beschäftigung und dann ja.",non_advance,0
+"Ich schließe mich s10`s und S11 seine Meinung an, weil,  S10 hatte auch recht damit mit der Trompete, weil er hat geräusche gemacht, dass die Leute das auf der Erde hören. HEREIN. Also ich schließe mich eigentlich S10 und S11`s Meinung an.",non_advance,0
+Was habt ihr  daraufhin gemacht? Was haben wir denn- wie geht’s dann weiter?,non_advance,1
+" Ich glaube der Film mit Igeln, der kam aus einem andern Land, der kam aus Littauen. ",non_advance,0
+" Ich glaub heute der Film der heisst, zumindestens hat der einen englischen Titel. Ich glaube der heisst, ,  Baboon und {der} Moon. Baboon on the Moon. ",non_advance,0
+"Ein Fabian ist ein Tier?
+Pavian nicht Fabian.",non_advance,1
+"Eirgendein Papagei? , Vogel.",non_advance,0
+"Mhm, was meinst du mit was anderes? Also, dass der Pavian in eine andere Rolle schlüpft?",non_advance,1
+Schauen wir mal. S19 noch und dann schauen wir mal.,non_advance,1
+"Weil man das so gesehen hat, also am Ende. Und er hat geweint. {ich denke} er hat geweint, weil er lieber auf der Erde wär. Lieber mit seinen Freunden.",non_advance,0
+"Die Sonne dreht sihc nicht, die Sonne ist und bleibt ruhig an ihrem Platz. Die dreht sihc nicht, wir drehen uns.",non_advance,0
+" Wie steht ihr dazu, zu diesem Gedanken, dass er sich nach der Erde sehnt, dass er sein ZUHAUSE auf der Erde ist? Mhm? S26, wie stehst du dazu?",non_advance,0
+"Und hat auch schon beschrieben, wo sein Zuhause ist.  […] Was ist denn ein Zuhause?  Was ist ein Zuhause? ",non_advance,0
+"Für mich ist Zuhause da, wo meine, wo meine Eltern, also {allgemein}, wo meine Familie herkommt.  alleine auf der Welt.",non_advance,0
+"Kann sich ein Zuhause im Laufe des Lebens verändern? Ja, fertig. Ich hab dazu garkeine Idee. Kann sich denn zuhause im Laufe des Lebens verändern?",non_advance,0
+Meins ist Zuhau- mein Zuhause ist mein PS4 Zimmer.,non_advance,1
+"Weil, wenn ich jetzt zum Beispiel umziehe- Wenn ich jetzt zum Beispiel morgen umziehe und morgen kann ich schon in das Haus leben und dann schlaf ich drin und dann zum Beispiel um 16:45 ziehen wir jetzt ein und dann 16:45 ist dann auch Zuhause.",non_advance,0
+"So wir gucken heute wieder einen Film und der Film heißt, passt auf, der Pavian auf dem Mond.
+Fabian?
+Nein. Pa, Pavian, nicht Fabian.  ",non_advance,0
+"The Baboon on the moon auf englisch. Hat jemand eine Idee? S14? Ein Pavian auf dem Mond. Baboon on the moon.
+Keine Idee? S1.",non_advance,0
+Was ist der Grund? Warum wollte er dahin?,non_advance,1
+"Wie kommt es, dass der Pavian alleine auf dem Mond ist. Was ist ihm passiert? Da steht nochma die Frage. Wie kommt es, dass der Pavian alleine auf dem Mond ist? Was ist ihm passiert?",non_advance,0
+"Die Wissenschaftler haben ihn auf den Mond geschickt, um zu sehen ob ein Lebe- ob ein Lebewesen auf dem Mond leben kann.",non_advance,0
+Ein Tierversuchslabor in Hamburg. Vor Hamburg.,non_advance,0
+"Ok, schon wieder ein Mondtechniker. Ähnlich wie S2s oder?",non_advance,1
+Die töten Tiere man.  Ja die töten Tiere echt.,non_advance,1
+"Ok, schon wieder ein Mondtechniker. Ähnlich wie S2s oder?",non_advance,1
+" Ich glaube, dass der Pavian mit einer Rakete auf den Mond geflogen ist und die Rakete ohne ihn wieder zurückgefolgen ist. Ich glaube, dass der Pavian mit einer Rakete auf den Mond geflogen ist und die Rakete ohne ihn wieder losgeflogen ist.",non_advance,0
+"Ich glaube, er wurde als Versuchs-Kanninchen auf den Mond geschickt.
+Eher wohl Versuchs-Pavian? ",non_advance,0
+" Wer kann mal so ein bisschen zusammenfassen, was ihr da jetzt so gesammelt habt? Was gibt es alles für für Möglichkeiten? Wer kann das mal alles ein bisschen zusammenfassen, S2, was gibt es alles?",non_advance,0
+"Und am besten begründen, mit den Filminformationen. Mit dem Film begründen, warum.",non_advance,0
+"Hast du,  Moment, haben wir Paviane auf der Erde gesehen? Also andere Paviane? Also kannst du das durch den Film begründen?",non_advance,0
+"ich hab von der Erde so ganz leise immer so ein bisschen Klaviermusik gehört , ganz bisschen Klavier war da.",non_advance,1
+Ich könnte das begründen für dich.  Ich könnte das begründen.,non_advance,0
+Häng mal auf. S2 nimm mal dran und häng auf.,non_advance,1
+"Ein Pavian bzw. Affe muss auf jeden Fall auf die Erde, da er dort Freunde bzw. Verwandte hat. ",non_advance,0
+"Weil da sein Zuhause ist.
+Du meinst sein Haus. Ja sein Haus.",non_advance,1
+"Also warum sagt S5, dass der Pavian, ihr müsst mal mitdenken gerade. Warum sagt S5, dass der Pavian sein Zuhause da hat?",non_advance,0
+"Meiner Meinung nach gehört der Pavian auf der Erde, weil er dort nicht einsam ist. DIE Erde.",non_advance,0
+"Ihr habt gleich in eurer Gruppe kurz Zeit den Pavian besser kennenzulernen. Und dem Pavian DREI Fragen zu stellen und die Fragen sollt ihr formulieren. Also ihr sollt einfach mal Fragen an den Pavian formulieren und das drei Stück, um was herauszufinden, was könnte man denn jetzt herausfinden wollen?",non_advance,0
+Ich mache jetzt ein Tierquäler-Bild. Was? Ich mach jetzt ein Tierquäler-Bild. ,non_advance,0
+Warum könnte man diese Frage stellen? Warum habt ihr die im Kopf?,non_advance,1
+Warum wurdest du in den Mond geschick? IN den Mond?,non_advance,0
+"Ihr habt jetzt die Aufgabe in eurer Gruppe zu überlegen, also ihr selber sollt jetzt überlegen, also ihr denkt jetzt gar nicht mehr an den Affen an den Pavian. ",non_advance,0
+"Ihr habt jetzt die Aufgabe in eurer Gruppe zu überlegen, also ihr selber sollt jetzt überlegen, also ihr denkt jetzt gar nicht mehr an den Affen an den Pavian. S, warum hast du jetzt deinen Navigator da? Den brauchst du jetzt nicht. Ihr sollt jetzt für euch überlegen, was ist Zuhause für euch.",non_advance,0
+"Ihr sollt jetzt für euch überlegen, was ist Zuhause für euch. Was bedeutet Zuhause? ",non_advance,0
+"Ist das für ein Gegenstand, ist das für euch ein GEFÜHL, ist das ein Geruch, ein Geschmack?",non_advance,0
+"Ihr bekommt diese Frage, ihr bekommt hier so Leitfragen, die könnt ihr mit Notizen füllen. ",non_advance,1
+" Hier sind so Fragen, wo fühlst du dich GLÜCKLICH, wäre die erste Frage. Wo fühlst du dich glücklich wäre die erste Frage. ",non_advance,0
+"Bei meiner Familie, das ist gut. Bei meiner Familie.",non_advance,0
+"Auch bei mir Zuhause, weil da alle sind. Auch die Familie? Also auch bei deiner Familie?",non_advance,0
+"Ja. (Liest) Wenn du in den Ferien unterwegs bist, wohin möchtest du zurück kommen? Häh?
+Lies nochmal vor bitte.
+Wenn du in den Ferien unterwegs bist, wohin möchtest du zurück kommen? Achso wo ich nochmal hin will? Zuhause?",non_advance,0
+"S1 hast du auch schon etwas dazu gesagt, zu Familie gesagt?",non_advance,1
+"Merkmale des Ortes, den du als Zuhause betrachtest. Also das Haus, wo ihr wohnt oder euer Zimmer?",non_advance,0
+"Also das, was jeder so sagt. Genau, das was ihr alle so sagt.",non_advance,0
+"Familie, und- Familie und meine Nachbarschaft.",non_advance,0
+" So wer hat denn mal ein paar Informationen zu, wo fühlst du dich glücklich? Was habt ihr da zusammen getragen, wo fühlt ihr euch glücklich? ",non_advance,0
+" Ich hab gesagt, bei Familie und Freunden und S9 meinte in einer ihm vertrauten Wohnung. In? Das letzte habe ich nicht verstanden. In einer gut vertrauten Wohnung.",non_advance,0
+"Ah okay. S16 dich kann man jetzt auch nochmal fragen,  ist Zuhause für dich ein Ort? Ist das eine Wohnung?",non_advance,0
+"So ihr sollt, morgen oder übermorgen, nein übermorgen ist Samstag, Montag, machen wir mal in euren Gruppen eine Collage.",non_advance,0
+", ich GLAUB, es kann- der Film kann so gemeint sein, dass man alleine nicht viel schaffen kann wie zusammen.",non_advance,0
+" Also, wenn man jetzt von sozusagen Trauertränen so, , ausgeht, dann könnte man auch sagen, dass er,  [...] ja, dass er sozusagen FLIEHEN musste, sozusagen, weil die Welt nicht mehr bewohnbar ist oder so.",non_advance,0
+"WAS ist damit geMEINT? Was ist mit den Kompetenzen gemeint, wie könntet ihr auf, in der Gruppenarbeit gleich berücksichtigen. S4.",non_advance,0
+", ist das jetzt gerade auf die [...] auf das CHATTEN mit denen [bezogen?]",non_advance,0
+"Und was auch komisch is, auf der, auf dem Mond dürfte keine Atmosphäre herrschen und er geht einfach drüber, aber egal. Es ist weil, es ist halt auch irgendwo nur DARgestellt, ne?",non_advance,0
+"Ja, aber er fühl- also, ich würd sagen, er fühlt sich bei [...] auf beiden Planeten zu Hause. Ja.",non_advance,0
+"Diese, diesen, , TREIBstoff, den er da in diese Maschine gefüllt hat, das kann er ja zum Beispiel gar nich ANBAUen.",non_advance,0
+"Er, er hatt seine, er ist GERne da und hat seine Tätigkeit das letzte Mal gemacht und muss jetzt zurück auf die Erde.",non_advance,0
+"Es könnte aber auch sein, dass er das, , dass er- Und ist DAHER traurig und auf dem Mond lebt er gerne und alleine und er ist TRAUrig, weil er jetzt zurück zur Erde muss.",non_advance,0
+"Dann gehen wir in Gruppe zw- also, in Frage ZWEI über, Frage drei, gehen wir einmal durch. ",non_advance,0
+"Nein, weil er alleine ist und immer, , alles selber machen muss, dasSELBE auch immer machen muss.",non_advance,0
+"Dass man halt immer das glei- ja, routiniert, dass man immer das gleiche macht und dass man sozusagen nich daraus kommt?",non_advance,1
+"Also, wenn man Angst zu Hause hat, also, wenn man Angst hat zu HAUSE zu sein. Wo fühlen sie sich zu Hause, oder wo sie geboren wurden?",non_advance,0
+"ALso, WIR HABEN als Definition von- WIR haben, , als Definition von Zuhause aufgeschrieben: Zuhause ist da, wo man sich wohlfühlt, oder auch, , doof gesagt, zu Hause fühlt.",non_advance,0
+Er hat die Erde vermisst. Er hat die {Erde} vermisst.,non_advance,0
+"Was ist für euch Zuhause? Also, wie fühlt ihr euch, wenn ihr nachhause kommt? Was ist, was ist das dann für euch, statt {reinzugehen} Zuhause, also was ist euer persönliches Denken über euer Zuhause? ",non_advance,0
+Unser Code funktioniert nicht. Der Code funktioniert nicht. ,non_advance,1
+Marotten sind so Angewohnheiten. Schlechte Angewohnheiten. Auch gute Angwohnheiten. ,non_advance,0
+Uff ich wollte das Baboon to the Moon. Das heisst ON the Moon,non_advance,1
+"Ich versteh nicht was passiert, wenn der im Ding drinne ist?  Ich frag mich, [was macht er in diesem Ding drinne?] Wisst ihr vielleicht was er in diesem Ding drinne macht? Was er wo macht? ",non_advance,0
+ Wovon erzählt der Film?[..][Was ist der PLOTT der Geschichte? Was ist das Thema des Films?,non_advance,0
+"Die allgemeine Mit-Menschen, wo man...man  sich kommunizieren kann und so.
+Das man sich?
+Das man sich kommunizieren.",non_advance,0
+"...weil er ist ja allein und einsam dort oben Er vermisst Unterhaltung.
+LAUTER!
+Er vermisst Unterhaltung!",non_advance,1
+Das er sich mit irgendwelchen anderen Leuten austauschen beziehungsweise einfach mit anderen Leuten reden kann.,non_advance,0
+" Was soll seine Botschaft sein, seine Idee dahinter war. Was will er denn mit dem Film mitgeben den Betrachtern? ",non_advance,0
+"Stellst ne Verbindung her, stellst ne Verbindung her zu dem Film. Ich glaub mir fehlt noch  die Schlüssigkeit deines Gedankens,fehlt mir noch.",non_advance,0
+"Wie könnte man, wie [nennt ihr denn eure Unterkunft], die Ihr habt?",non_advance,0
+"[Zuhause.
+WAS?
+Zuhause.",non_advance,0
+"ich hätte vielleicht noch eine Idee, was damit gemeint sein könnte und zwar  wie social media die Welt verändert hat und zwar bezieht sich das darauf  ich bezieh mich jetzt auf einen ko-ko-konventionellen Spruch den es gibt und zwar „Du lebst doch hinterm Mond“ – wenn man etwas nicht kennt-",non_advance,0
+" und das Zuhause, das gezeigt wird das verknüpft sich gut mit den anderen Aussagen. Das Zuhause, das gezeigt wird  er erkennt…ES erkennt-",non_advance,0
+"Ich sag auch immer ER, hört sich blöd an  ES jaja. ",non_advance,0
+Er ist allein und er ist ausgeschlossen..willst Du das sagen?,non_advance,0
+" Du sagst Zuhause ist für dich alleine zu sein? NICHT alleine zu sein! Also, wenn man Zuhause ist, dann ist man nicht alleine und einsam",non_advance,0
+"Ich möchte irgendwann bei Dir…S2, ich möchte irgendwann bei Dir Schreibunterricht haben.",non_advance,1
+Zuhause ist da wo wir akzeptiert werden Ich habs nicht verstanden Zuhause ist da wo man akzeptiert wird!,non_advance,1
+"Darf ich mal  […].ach Du hattest Dich gemeldet, sorry hab ich nicht gesehen S dann noch",non_advance,1
+"Die wurden nicht auf den Mond geschickt! Aber die wurden ins Weltall gesch[ickt]! [Ins Weltall] [INS] Weltall, aber nicht auf den Mond. [] wo die gefunden wurden.",non_advance,0
+"Ich glaub es soll einfach nur zeigen, dass er da ein Leben hat das er einfach leben kann.",non_advance,0
+Was bedeutet es eigentlich ein Zuhause zu haben. Also was was gehört dazu? Reicht es ein Bett zu haben und vielleicht ein Poster an der Wand? Ist das dann schon automatisch ein Zuhause oder was gehört eigentlich dazu.,non_advance,0
+", die Bettdecke. Da war ein Zebramuster auf der Bettdecke zu sehen. Haben Sie das gesehen? [...] Die BEttdecke, mit der er sich zugedeckt hatte, das war ein Zebramuster, ne?",non_advance,0
+", also wäre ihr-, können Sie nochmal Ihre Bedeutung des Films zusammenfassen?",non_advance,0
+"Okay, hätte jemand noch eine andere, Sie hatten ja eigentlich schon direkt gedeutet, S14, ne",non_advance,0
+"Von der De-, von der Deutung her würde ich sagen, dass es vielleicht darum geht, dass manche Sachen, die wir als selbstverständlich erachten, die vielleicht andere Hintergründe haben, die wir selbst so garnicht richtig mitkriegen oder nicht genug drauf achten nd, das, dass für die LEute, die das machen vielleicht nicht so schön ist.",non_advance,0
+"Also wenn Menschen in besondere Rollen hineingesetzt werden, dass meinen Sie? Das dieser Pavian jetzt auf dem Mond ist, obwohl er das eigentlich nicht so gerne macht?",non_advance,0
+"] Konnte jemand die Interpretation von S14, ich hatte Si enämlich Anfangs so verstanden, dass Sie sagen, also der arme Pavian, der muss da auf dem Mond leben, ja eigentlich kommt der da ja garnicht her, eigentlich kommte der ja aus Mali. , dass vielleicht so in die Richtung gehen kann? War das auch so erst Ihr Gedanke, oder? [Also] so hatte ich Sie jetzt Anfangs verstanden.",non_advance,0
+"Also Zuhause muss nicht da sein, wo ich unbedingt herkomme. Ja . Ich meine bei {meiner Mutter}, aber richtig Zuhause ich bin in meiner Wohnung, weil da ist ja alles so, wie ich will",non_advance,0
+"AHA. Also in Deu-, also es ist diene Aussage, in Deutschland werden alle ausländischen Mitmenschen toleriert.
+Alle Mitmenschen.",non_advance,0
+Ja und ein} Affe. Ein Pavian nämlich. ,non_advance,1
+Was ist denn passiert? […] In. Dem. Film. Könnt Ihr noch ein bisschen beschreiben? […] Was habt ihr alles gesehen? JA.,non_advance,1
+"Also, der Wecker hat geklingelt. Der Affe ist dann aufgestanden-
+Kannst du bisschen lauter sprechen?
+DER Wecker hat geklingelt.",non_advance,0
+"Ja, weil er ist ja auf dem Mars.
+Auf dem Mond ist er.",non_advance,0
+Die Abschiebung von sich selbst sag ich mal. Also er hat sich so sebst ein bisschen abgeschoben und kann jetzt nicht mehr zurück.,non_advance,1
+"Also sozusagen als Versuchs, baboon, Versuchskaninchen?  ",non_advance,0
+"Also- Ja. Ich würde sagen mein Zuhause ist tatsächlich wo ich gerade bin, also nicht direkt immer, aber auch nicht wirklich da, wo ich herkomme. ",non_advance,0
+" , also-. Es kommt auf die Lage an. Ja, es kommt auf die Lage an. Ich würde sagen alle Menschen, die einem lieb sind und teuer. Also [ich]. [Familie]. Familie",non_advance,0
+"Warum sagt man Zuhause ist da, wo das Herz wohnt? Wie gesagt immernoch da, wo deine Liebsten sind, also deine Famile und Freunde sind. Wo dein Herz wohnt. Da, da, drin. Du bist dein eigenes- Du bist dein eigenes Zuhause.",non_advance,0
+" und zur Formulierung von Zuhause war. Zuhause ist dort wo das gute 
+Wo das was?
+Wo das Gute weg. Wo du dich WOHL und geborgen fühlst.",non_advance,0
+"Okay. Ist nicht pauschal zu beantworten, verstehe ich dich richtig?",non_advance,0
+", könnt Ihr jetzt mal überlegen, wo da Gemeinsamkeiten oder Unterschiede aufgetreten sind in euren Definitionen. Seht Ihr da irgendwas, was Ihr jetzt anders gemacht habt, als ne andere Gruppe?",non_advance,0
+"Im Film hatte der Pavian keine Freunde oder Familie, war ganz allein da auf dem Mond.",non_advance,1
+"Was für ne, was für ne Rolle- Also S27 hat ganz am Anfang gesagt ist ja auch ein symbolischer Film. , was für ne Rolle spielt denn diese Trompete und die Musik für ihn?",non_advance,0
+"Wie für den, was für den Pavian diese Trompete ist, war. […] Ist sowas wichtig? ",non_advance,0
+"Ich hab grad gesagt Handy, telefon solche Dinge sind jetzt, , ich meine mehr was, was einen ideellen Wert hat.",non_advance,0
+Was ist denn eine Meinung?  GUTEN MORGEN! Was heisst eine Meinung haben? ,non_advance,0
+"
+Also meinst du man kann über die Regeln noch ein bisschen verhandeln?  ",non_advance,1
+"Du meinst, es lohnt sich, sich an Regeln zu halten?",non_advance,1
+"Warum muss man sich nicht immer an die bestehenden Regeln halten? Kannst du uns sagen, warum du das findest?",non_advance,0
+"Du hast gesagt, man schafft das nicht immer, es ist so anstrengend sich an Regeln zu halten, oder hab ich das richtig im Kopf? ",non_advance,0
+"Also, man kann sich nicht immer an Regeln halten. , man kann Regeln nicht immer einhalten so ganz",non_advance,0
+"Und weil man sich nie Und weil man sich nich, nich die tausend Regeln auch ganz merken kann, auch.",non_advance,0
+"So, wenn du mal in die Mitte schaust, was fällt dir auf? S19, was fällt dir auf?",non_advance,1
+Das gelbe- was ist mit dem gelben? […] Was ist mit dem gelben? […] Hol dir mal Hilfe. […] Wer kann helfen? Was ist mit den gelben Steinchen? Was fällt dir auf?,non_advance,0
+Was ist da passiert? S19. Was war da passiert in dem Film?,non_advance,1
+"Und das Ende? Das ist dann wirklich wie bei so einer Geschichte und unserer Mäuse Geschichte, ist es dann? Was ist das Ende der dann? S3.",non_advance,0
+" Ihr könnt Satz schreiben, ihr könnt manchmal vielleicht auch schreiben.    ",non_advance,1
+"DANN woran ERKENNST du das, dass sich der Vater so fühlt? Woran kann man das in dem Film sehen?",non_advance,0
+"Und dann ist hier die Frage warum fühlt er sich so? Warum, wie du beschrieben hast, warum fühlt er sich so?",non_advance,0
+"Und ihr schreibt dann GEMEINSAM auf, was eure GEMEINSAME Meinung ist. Ja? Ihr tauscht euch also aus, Wie fühlt sich der Vater am Anfang, sprecht darüber und DAS, was eure Meinung ist, das schreibt ihr dann auf.",non_advance,0
+ Ja. Wenn wir mal an das an die Mi zwischen Mitte und Ende denkt. Ja. ,non_advance,0
+Weil der Vatter ahh erschrocken GUCKT. Er was? Ne weil der Vater Erschrocken guck- Besoffen guckt. Besoffen (lacht). Weil der Vater sich erSCHRECKT HAT. ,non_advance,0
+" Oh ne S1, das ist zu übertrieben, nicht anmalen. Das ist zu übertrieben. Nicht anmalen.  ",non_advance,0
+"Jeder macht aber eine andere Farbe, nicht jeder die gleiche. Ok?",non_advance,1
+"WARUM fühlt er sich so? Warum fühlt er sich am Anfang so, warum fühlt er sich in der Mitte so und warum fühlt er sich am Ende so? ",non_advance,0
+ Und warum wird’s zum Hobby? Warum sucht man sich ein Hobby?,non_advance,0
+"Ja, wofür ist ein Hobby da? Den man sonst nicht hat? Gibts noch mehr wozu ein Hobby da ist?",non_advance,1
+"Also ich würde sagen, dass kann jeder Gegenstand sein. Wenn man Zuhause irgendwas mitnimmt,Eine Fliese. Jeder Gegenstand sein, den man von Zuhause mitnimmt.",non_advance,0
+Alle haben irgendwie das Gleiche. Alle irgendwie Freunde und Familie.,non_advance,1
+"Im Film hatte der Pavian keine Freunde oder Familie, war ganz allein da auf dem Mond.",non_advance,1
+", wie meinst du AUSSER, wenn man umzieht? Kannst du das nochmal genauer sagen , bitte?",non_advance,0
+"Da gibt es ja eben auch ein Haus indem er lebt,  also er hat ja ein Dach über dem Kopf, scheinbar auch alles da was man braucht ",non_advance,1
+Wie ist das dann mit Zuhause? Wie würdet ihr das dann nennen? Oder beschreiben?,non_advance,1
+"Ich möchte auch noch sagen, da stand auch noch ein Bild von ZWEI Lebewesen! Beziehungsweise ihm und noch jemanden.",non_advance,0
+"Ich glaube, also, wenn du umziehst, weil du umziehen willst, sag ich mal, dann freust du dich ja auch darauf.",non_advance,0
+"ich möcht jetz noch gar nicht  also ich bin ich studiere noch diplomtheologie
+",non_advance,1
+"jetzt weiß ich ja dass sie sehr viel zeitlich immer sehr viel eingespannt sind
+",non_advance,1
+"wir müssen ja auch nich an den prüfungskorrito- ORridor gehen sondern wir können jederzeit eine prüfung machen.
+",non_advance,0
+"ich glaube im april und im  september gehts nicht- weil da erziehungswissenschaftenkolloqu
+ja also prüfungen sind-
+aber ansonsten können wir ganzjährig das machen.",non_advance,0
+"dann PRüfung irgendwann.
+entweder septem-
+MEIstens im september.",non_advance,1
+also da würde ich sagen-da wir ja zwanzig minuten haben-zwanzig fünfundzwanzig minuten haben würde ich sagen vertiefen sie einfach.,non_advance,0
+"und hab dann selber-
+text also hatte diese bausteine-und glaub ich vorne is doch so diese dieser theoretische teil ne.",non_advance,0
+ich soll ihnen noch was ge ich soll ihnen noch was geben,non_advance,1
+ja ja ja nee ist schon klar. ja ja ja ist schon in ordnung.,non_advance,1
+"also ich würde sagen vertiefen sie in einen bereich großen überblick
+und vertiefen-und das reicht.",non_advance,0
